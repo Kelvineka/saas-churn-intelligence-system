@@ -1,1 +1,1001 @@
-
+customer_id,signup_date,plan_name,billing_cycle,industry,country,acquisition_channel,company_size,monthly_price,annual_price,contract_value,is_churned,churn_date,tenure_months,usage_score,support_tickets,cancel_reason
+CUST0001,2023-02-18,Professional,Annual,EdTech,Australia,Paid Ads,51-200,79,758,758,1,2023-06-18,4,26,4,Budget cuts
+CUST0002,2023-01-18,Business,Annual,EdTech,UK,Direct,51-200,149,1430,1430,1,2024-01-13,12,60,2,Too expensive
+CUST0003,2022-03-26,Enterprise,Monthly,HealthTech,Brazil,Referral,11-50,299,2870,299,0,,24,76,0,
+CUST0004,2023-04-19,Professional,Monthly,HR Tech,USA,Referral,1-10,79,758,79,0,,11,67,1,
+CUST0005,2023-03-29,Professional,Annual,E-Commerce,USA,Organic Search,1-10,79,758,758,0,,12,69,3,
+CUST0006,2022-03-30,Starter,Annual,Media,Nigeria,Paid Ads,11-50,29,278,278,1,2023-05-24,14,27,7,Missing features
+CUST0007,2022-12-29,Enterprise,Monthly,FinTech,UK,Social Media,201-500,299,2870,299,0,,15,66,3,
+CUST0008,2022-05-08,Starter,Monthly,E-Commerce,UK,Direct,1-10,29,278,29,1,2023-10-30,18,13,6,Budget cuts
+CUST0009,2023-05-27,Business,Annual,HealthTech,Nigeria,Paid Ads,51-200,149,1430,1430,0,,10,93,2,
+CUST0010,2022-08-10,Professional,Monthly,Media,India,Direct,201-500,79,758,79,0,,19,68,1,
+CUST0011,2022-02-08,Enterprise,Annual,Media,Brazil,Paid Ads,11-50,299,2870,2870,0,,26,60,2,
+CUST0012,2022-08-12,Business,Annual,EdTech,India,Referral,11-50,149,1430,1430,0,,19,57,3,
+CUST0013,2023-03-08,Enterprise,Monthly,SaaS,Nigeria,Direct,11-50,299,2870,299,0,,12,65,3,
+CUST0014,2023-09-18,Starter,Monthly,HR Tech,Australia,Direct,11-50,29,278,29,1,2023-10-18,1,61,6,Usability issues
+CUST0015,2022-10-30,Enterprise,Monthly,E-Commerce,Germany,Social Media,11-50,299,2870,299,0,,17,63,2,
+CUST0016,2023-02-14,Starter,Monthly,EdTech,USA,Partner,11-50,29,278,29,0,,13,53,1,
+CUST0017,2023-06-08,Business,Monthly,EdTech,Germany,Social Media,201-500,149,1430,149,0,,9,48,2,
+CUST0018,2022-07-25,Business,Annual,SaaS,Canada,Partner,1-10,149,1430,1430,1,2023-08-19,13,25,5,Too expensive
+CUST0019,2022-04-13,Enterprise,Annual,Media,UK,Referral,11-50,299,2870,2870,1,2023-05-08,13,41,5,Too expensive
+CUST0020,2023-04-20,Professional,Annual,Media,UK,Direct,51-200,79,758,758,0,,11,64,3,
+CUST0021,2022-06-23,Enterprise,Monthly,HR Tech,USA,Organic Search,11-50,299,2870,299,0,,21,55,2,
+CUST0022,2022-01-13,Professional,Monthly,E-Commerce,UK,Partner,201-500,79,758,79,0,,26,86,0,
+CUST0023,2022-12-17,Professional,Annual,SaaS,UK,Direct,1-10,79,758,758,0,,15,68,3,
+CUST0024,2022-06-25,Starter,Annual,HealthTech,Australia,Partner,1-10,29,278,278,1,2023-06-20,12,41,3,Too expensive
+CUST0025,2022-03-30,Starter,Monthly,Media,UK,Referral,201-500,29,278,29,0,,24,49,1,
+CUST0026,2022-12-15,Business,Annual,Media,Australia,Referral,1-10,149,1430,1430,1,2024-02-08,14,17,1,Too expensive
+CUST0027,2022-04-10,Business,Annual,HR Tech,Canada,Paid Ads,201-500,149,1430,1430,0,,24,69,2,
+CUST0028,2023-08-27,Starter,Monthly,SaaS,UK,Paid Ads,500+,29,278,29,0,,7,53,2,
+CUST0029,2022-10-25,Starter,Monthly,HealthTech,USA,Referral,1-10,29,278,29,0,,17,78,0,
+CUST0030,2023-01-21,Business,Annual,E-Commerce,USA,Referral,51-200,149,1430,1430,1,2024-01-16,12,16,1,Too expensive
+CUST0031,2022-09-24,Starter,Annual,Media,USA,Partner,500+,29,278,278,0,,18,90,2,
+CUST0032,2022-03-04,Enterprise,Monthly,Media,UK,Organic Search,500+,299,2870,299,1,2023-03-29,13,58,8,Too expensive
+CUST0033,2022-06-19,Professional,Monthly,E-Commerce,Brazil,Partner,1-10,79,758,79,0,,21,68,1,
+CUST0034,2022-04-13,Professional,Monthly,E-Commerce,UK,Direct,51-200,79,758,79,1,2023-01-08,9,51,3,Usability issues
+CUST0035,2023-06-13,Business,Monthly,HealthTech,Australia,Paid Ads,11-50,149,1430,149,0,,9,51,0,
+CUST0036,2022-09-05,Starter,Annual,Logistics,Brazil,Paid Ads,1-10,29,278,278,1,2023-10-30,14,75,0,Switched to competitor
+CUST0037,2023-03-24,Starter,Monthly,FinTech,Germany,Paid Ads,11-50,29,278,29,0,,12,66,2,
+CUST0038,2022-07-20,Business,Monthly,Logistics,India,Paid Ads,51-200,149,1430,149,0,,20,85,1,
+CUST0039,2023-04-09,Starter,Annual,Logistics,Australia,Paid Ads,51-200,29,278,278,0,,11,57,2,
+CUST0040,2023-01-20,Starter,Monthly,HealthTech,USA,Organic Search,1-10,29,278,29,1,2023-11-16,10,42,5,Budget cuts
+CUST0041,2022-03-14,Professional,Monthly,Media,Canada,Social Media,201-500,79,758,79,0,,24,49,3,
+CUST0042,2023-07-27,Enterprise,Monthly,Logistics,Canada,Referral,11-50,299,2870,299,1,2023-08-26,1,33,4,Switched to competitor
+CUST0043,2022-11-30,Professional,Monthly,SaaS,Australia,Paid Ads,11-50,79,758,79,0,,16,89,0,
+CUST0044,2023-01-28,Starter,Monthly,HR Tech,Brazil,Direct,51-200,29,278,29,0,,14,69,1,
+CUST0045,2023-09-12,Business,Annual,HealthTech,Germany,Direct,51-200,149,1430,1430,0,2024-03-31,13,49,0,
+CUST0046,2023-07-31,Starter,Monthly,Media,Australia,Direct,201-500,29,278,29,0,,8,54,0,
+CUST0047,2022-01-21,Starter,Monthly,EdTech,Canada,Organic Search,500+,29,278,29,0,,26,73,1,
+CUST0048,2022-10-21,Enterprise,Annual,HealthTech,Germany,Paid Ads,51-200,299,2870,2870,0,,17,60,0,
+CUST0049,2022-03-21,Starter,Monthly,SaaS,UK,Referral,51-200,29,278,29,1,2022-06-19,3,32,5,Poor support
+CUST0050,2023-05-11,Starter,Annual,SaaS,Brazil,Referral,11-50,29,278,278,0,,10,80,3,
+CUST0051,2022-10-18,Starter,Monthly,E-Commerce,Australia,Partner,11-50,29,278,29,0,,17,69,1,
+CUST0052,2023-08-10,Starter,Annual,Media,Canada,Organic Search,11-50,29,278,278,1,2023-09-09,1,47,2,Switched to competitor
+CUST0053,2022-07-16,Starter,Annual,SaaS,UK,Partner,51-200,29,278,278,1,2022-12-13,5,39,6,Too expensive
+CUST0054,2023-03-30,Professional,Monthly,Logistics,Australia,Referral,1-10,79,758,79,0,,12,56,1,
+CUST0055,2022-08-02,Business,Annual,Media,Brazil,Paid Ads,51-200,149,1430,1430,1,2023-08-27,13,63,2,Switched to competitor
+CUST0056,2022-01-22,Starter,Annual,E-Commerce,UK,Direct,1-10,29,278,278,0,,26,40,2,
+CUST0057,2023-01-07,Starter,Monthly,HealthTech,Germany,Organic Search,51-200,29,278,29,1,2023-05-07,4,30,2,No longer needed
+CUST0058,2023-02-05,Professional,Monthly,Media,Nigeria,Partner,51-200,79,758,79,0,,14,63,2,
+CUST0059,2022-04-18,Enterprise,Annual,Logistics,UK,Organic Search,11-50,299,2870,2870,1,2023-05-13,13,33,5,Switched to competitor
+CUST0060,2023-02-22,Enterprise,Monthly,E-Commerce,Germany,Social Media,51-200,299,2870,299,0,,13,74,0,
+CUST0061,2023-07-16,Professional,Monthly,EdTech,India,Partner,51-200,79,758,79,1,2024-02-11,7,32,6,Too expensive
+CUST0062,2023-05-19,Starter,Annual,HR Tech,Germany,Paid Ads,51-200,29,278,278,0,,10,60,1,
+CUST0063,2023-04-10,Business,Monthly,Logistics,UK,Social Media,500+,149,1430,149,0,,11,64,0,
+CUST0064,2022-01-16,Business,Annual,FinTech,Brazil,Paid Ads,51-200,149,1430,1430,1,2023-03-12,14,28,3,Too expensive
+CUST0065,2022-01-04,Starter,Monthly,EdTech,UK,Social Media,11-50,29,278,29,0,,27,97,3,
+CUST0066,2022-10-23,Business,Monthly,FinTech,Germany,Organic Search,51-200,149,1430,149,0,,17,61,3,
+CUST0067,2023-01-16,Enterprise,Monthly,E-Commerce,Germany,Partner,11-50,299,2870,299,0,,14,65,2,
+CUST0068,2023-08-13,Business,Monthly,EdTech,India,Social Media,11-50,149,1430,149,0,,7,63,3,
+CUST0069,2022-03-23,Professional,Monthly,SaaS,Germany,Direct,1-10,79,758,79,1,2022-04-22,1,30,1,Missing features
+CUST0070,2023-06-26,Business,Monthly,Logistics,India,Referral,11-50,149,1430,149,0,,9,57,2,
+CUST0071,2022-06-19,Starter,Monthly,HR Tech,Germany,Social Media,201-500,29,278,29,0,,21,65,1,
+CUST0072,2023-09-24,Starter,Monthly,E-Commerce,Brazil,Paid Ads,11-50,29,278,29,0,,6,58,3,
+CUST0073,2022-12-05,Business,Monthly,Logistics,Australia,Social Media,1-10,149,1430,149,1,2023-08-02,8,36,4,Usability issues
+CUST0074,2023-02-22,Enterprise,Monthly,HealthTech,UK,Organic Search,51-200,299,2870,299,1,2023-10-20,8,19,7,Missing features
+CUST0075,2022-09-26,Professional,Monthly,E-Commerce,India,Partner,201-500,79,758,79,0,,18,60,1,
+CUST0076,2023-05-08,Professional,Annual,E-Commerce,Brazil,Direct,11-50,79,758,758,0,,10,100,3,
+CUST0077,2023-09-04,Professional,Monthly,HR Tech,Canada,Direct,1-10,79,758,79,0,,6,62,2,
+CUST0078,2023-05-17,Starter,Monthly,Logistics,USA,Social Media,1-10,29,278,29,0,,10,58,0,
+CUST0079,2023-07-15,Professional,Monthly,FinTech,Canada,Paid Ads,51-200,79,758,79,1,2023-11-12,4,34,6,Usability issues
+CUST0080,2022-03-03,Enterprise,Annual,FinTech,Australia,Paid Ads,500+,299,2870,2870,1,2023-02-26,12,56,1,Switched to competitor
+CUST0081,2023-06-14,Business,Monthly,SaaS,Brazil,Referral,201-500,149,1430,149,0,,9,75,0,
+CUST0082,2023-04-08,Starter,Annual,FinTech,Australia,Direct,201-500,29,278,278,0,2024-03-31,13,60,3,
+CUST0083,2022-12-09,Business,Annual,HR Tech,Brazil,Organic Search,11-50,149,1430,1430,1,2023-05-08,5,64,6,Usability issues
+CUST0084,2022-01-04,Starter,Monthly,Logistics,Germany,Referral,201-500,29,278,29,0,,27,53,2,
+CUST0085,2023-02-04,Starter,Annual,SaaS,Canada,Organic Search,51-200,29,278,278,1,2023-03-06,1,23,4,Too expensive
+CUST0086,2022-05-16,Professional,Annual,Media,UK,Social Media,1-10,79,758,758,1,2023-06-10,13,40,3,Too expensive
+CUST0087,2023-08-17,Business,Annual,FinTech,UK,Organic Search,11-50,149,1430,1430,0,2024-03-31,12,60,2,
+CUST0088,2022-09-02,Starter,Monthly,HealthTech,Canada,Partner,1-10,29,278,29,0,,19,75,1,
+CUST0089,2022-11-21,Professional,Monthly,EdTech,Australia,Direct,201-500,79,758,79,0,,16,42,1,
+CUST0090,2023-04-03,Enterprise,Annual,SaaS,USA,Social Media,1-10,299,2870,2870,1,2024-03-28,12,81,3,Too expensive
+CUST0091,2022-07-30,Starter,Annual,FinTech,UK,Organic Search,500+,29,278,278,1,2022-11-27,4,38,2,Too expensive
+CUST0092,2022-01-20,Business,Annual,Logistics,Nigeria,Paid Ads,11-50,149,1430,1430,0,,26,67,3,
+CUST0093,2022-07-04,Professional,Monthly,Logistics,Canada,Referral,1-10,79,758,79,0,,21,75,1,
+CUST0094,2022-07-25,Starter,Annual,EdTech,Brazil,Organic Search,11-50,29,278,278,0,,20,49,1,
+CUST0095,2022-05-07,Starter,Monthly,HealthTech,UK,Paid Ads,1-10,29,278,29,0,,23,77,2,
+CUST0096,2022-03-24,Business,Monthly,FinTech,Brazil,Social Media,51-200,149,1430,149,0,,24,51,2,
+CUST0097,2023-06-16,Professional,Annual,HR Tech,Nigeria,Direct,51-200,79,758,758,0,,9,61,1,
+CUST0098,2022-03-11,Business,Annual,E-Commerce,Australia,Partner,1-10,149,1430,1430,0,,25,62,2,
+CUST0099,2022-01-17,Starter,Monthly,Logistics,USA,Organic Search,51-200,29,278,29,0,,26,66,1,
+CUST0100,2023-05-09,Starter,Annual,E-Commerce,Nigeria,Referral,51-200,29,278,278,0,2024-03-31,13,53,0,
+CUST0101,2023-05-10,Business,Monthly,SaaS,Germany,Direct,500+,149,1430,149,0,,10,71,0,
+CUST0102,2023-06-19,Professional,Monthly,Logistics,USA,Direct,51-200,79,758,79,0,,9,86,2,
+CUST0103,2023-07-29,Starter,Monthly,E-Commerce,Nigeria,Paid Ads,1-10,29,278,29,1,2023-09-27,2,14,7,Switched to competitor
+CUST0104,2023-06-02,Enterprise,Monthly,HR Tech,USA,Partner,1-10,299,2870,299,0,,10,69,2,
+CUST0105,2022-09-08,Starter,Monthly,FinTech,Canada,Paid Ads,51-200,29,278,29,0,,19,74,1,
+CUST0106,2023-08-03,Professional,Monthly,EdTech,India,Social Media,11-50,79,758,79,1,2023-09-02,1,27,3,Missing features
+CUST0107,2023-08-27,Starter,Monthly,Media,UK,Paid Ads,51-200,29,278,29,0,,7,69,0,
+CUST0108,2022-12-06,Business,Monthly,HealthTech,Canada,Direct,1-10,149,1430,149,0,,16,61,1,
+CUST0109,2023-07-28,Business,Monthly,Media,Nigeria,Social Media,1-10,149,1430,149,1,2023-11-25,4,42,5,Switched to competitor
+CUST0110,2023-01-24,Professional,Annual,FinTech,Australia,Direct,11-50,79,758,758,1,2024-01-19,12,79,3,Too expensive
+CUST0111,2023-03-14,Professional,Annual,HealthTech,Brazil,Partner,201-500,79,758,758,0,,12,76,1,
+CUST0112,2023-06-30,Professional,Monthly,EdTech,Nigeria,Direct,51-200,79,758,79,0,,9,68,2,
+CUST0113,2022-03-07,Professional,Annual,HR Tech,USA,Paid Ads,11-50,79,758,758,1,2023-05-31,15,24,6,Too expensive
+CUST0114,2023-04-29,Starter,Monthly,Media,UK,Organic Search,1-10,29,278,29,0,,11,64,0,
+CUST0115,2023-06-20,Enterprise,Annual,SaaS,Brazil,Organic Search,201-500,299,2870,2870,0,,9,58,2,
+CUST0116,2023-01-21,Starter,Monthly,SaaS,Brazil,Partner,51-200,29,278,29,0,,14,68,0,
+CUST0117,2022-07-26,Professional,Monthly,E-Commerce,Australia,Paid Ads,51-200,79,758,79,0,,20,79,3,
+CUST0118,2023-09-07,Enterprise,Annual,E-Commerce,USA,Partner,1-10,299,2870,2870,0,2024-03-31,13,78,0,
+CUST0119,2022-09-21,Starter,Monthly,EdTech,India,Direct,51-200,29,278,29,0,,18,80,0,
+CUST0120,2023-01-14,Starter,Annual,Logistics,USA,Organic Search,51-200,29,278,278,1,2024-01-09,12,42,7,Budget cuts
+CUST0121,2023-01-16,Enterprise,Annual,HealthTech,Nigeria,Partner,51-200,299,2870,2870,0,,14,71,0,
+CUST0122,2023-07-13,Professional,Monthly,SaaS,Germany,Paid Ads,51-200,79,758,79,1,2023-08-12,1,38,5,Too expensive
+CUST0123,2023-06-29,Starter,Annual,HealthTech,Germany,Partner,1-10,29,278,278,0,,9,70,2,
+CUST0124,2022-04-15,Starter,Monthly,Media,Canada,Paid Ads,201-500,29,278,29,0,,23,89,3,
+CUST0125,2022-07-11,Starter,Annual,SaaS,Brazil,Social Media,1-10,29,278,278,1,2023-11-03,16,24,4,Usability issues
+CUST0126,2023-01-28,Business,Monthly,HR Tech,Nigeria,Referral,201-500,149,1430,149,0,,14,79,0,
+CUST0127,2022-01-01,Enterprise,Monthly,Media,Germany,Paid Ads,11-50,299,2870,299,0,,27,82,0,
+CUST0128,2022-12-01,Business,Annual,EdTech,UK,Paid Ads,51-200,149,1430,1430,1,2023-11-26,12,56,1,Too expensive
+CUST0129,2022-02-19,Professional,Annual,FinTech,Nigeria,Organic Search,500+,79,758,758,0,,25,64,1,
+CUST0130,2023-03-07,Starter,Annual,SaaS,Australia,Organic Search,11-50,29,278,278,1,2024-03-01,12,24,1,Usability issues
+CUST0131,2023-02-12,Starter,Monthly,HealthTech,Australia,Referral,11-50,29,278,29,0,,13,77,3,
+CUST0132,2022-11-12,Professional,Annual,SaaS,Nigeria,Direct,201-500,79,758,758,0,,16,77,1,
+CUST0133,2023-05-14,Business,Annual,Logistics,Australia,Partner,51-200,149,1430,1430,0,,10,90,3,
+CUST0134,2023-06-19,Starter,Annual,Logistics,Australia,Referral,1-10,29,278,278,0,2024-03-31,13,41,1,
+CUST0135,2023-04-05,Business,Annual,Media,UK,Direct,1-10,149,1430,1430,0,,12,62,3,
+CUST0136,2023-08-21,Professional,Annual,EdTech,USA,Organic Search,1-10,79,758,758,0,,7,68,1,
+CUST0137,2023-08-31,Starter,Annual,Logistics,India,Organic Search,1-10,29,278,278,0,2024-03-31,14,84,1,
+CUST0138,2022-12-20,Starter,Monthly,FinTech,Nigeria,Referral,11-50,29,278,29,1,2023-09-16,9,33,6,Usability issues
+CUST0139,2022-10-28,Professional,Annual,EdTech,Nigeria,Referral,11-50,79,758,758,1,2023-11-22,13,79,0,Too expensive
+CUST0140,2022-12-10,Professional,Monthly,HealthTech,Nigeria,Paid Ads,1-10,79,758,79,0,,15,74,3,
+CUST0141,2022-12-23,Starter,Monthly,HR Tech,India,Referral,11-50,29,278,29,0,,15,74,3,
+CUST0142,2022-09-24,Starter,Monthly,E-Commerce,Brazil,Referral,1-10,29,278,29,0,,18,61,3,
+CUST0143,2022-05-01,Starter,Annual,FinTech,USA,Organic Search,51-200,29,278,278,1,2023-05-26,13,20,3,Too expensive
+CUST0144,2022-05-08,Professional,Monthly,E-Commerce,USA,Direct,1-10,79,758,79,1,2022-08-06,3,44,1,No longer needed
+CUST0145,2022-06-29,Starter,Annual,Logistics,Australia,Social Media,201-500,29,278,278,0,,21,54,0,
+CUST0146,2023-06-13,Starter,Monthly,Logistics,UK,Referral,51-200,29,278,29,0,,9,47,0,
+CUST0147,2023-04-03,Professional,Annual,E-Commerce,Brazil,Organic Search,1-10,79,758,758,0,2024-03-31,16,88,3,
+CUST0148,2022-07-14,Enterprise,Monthly,Logistics,USA,Paid Ads,11-50,299,2870,299,0,,20,50,3,
+CUST0149,2022-02-28,Starter,Annual,HealthTech,Nigeria,Social Media,51-200,29,278,278,1,2023-02-23,12,39,2,Too expensive
+CUST0150,2023-01-20,Business,Annual,EdTech,Germany,Direct,51-200,149,1430,1430,1,2024-01-15,12,79,0,Too expensive
+CUST0151,2022-05-12,Professional,Monthly,Logistics,USA,Direct,51-200,79,758,79,0,,22,53,1,
+CUST0152,2022-04-28,Starter,Monthly,Media,Canada,Paid Ads,11-50,29,278,29,0,,23,63,0,
+CUST0153,2022-10-25,Starter,Annual,EdTech,India,Partner,51-200,29,278,278,0,,17,79,2,
+CUST0154,2022-08-02,Business,Monthly,E-Commerce,USA,Partner,11-50,149,1430,149,0,,20,58,1,
+CUST0155,2022-09-14,Professional,Monthly,FinTech,UK,Direct,1-10,79,758,79,0,,18,81,1,
+CUST0156,2023-03-19,Professional,Monthly,EdTech,UK,Paid Ads,51-200,79,758,79,0,,12,59,3,
+CUST0157,2022-09-19,Starter,Monthly,SaaS,USA,Partner,201-500,29,278,29,0,,18,67,0,
+CUST0158,2023-04-16,Business,Monthly,E-Commerce,Canada,Paid Ads,51-200,149,1430,149,0,,11,77,3,
+CUST0159,2022-03-13,Business,Monthly,Logistics,Nigeria,Direct,1-10,149,1430,149,0,,24,65,3,
+CUST0160,2023-04-03,Starter,Annual,Media,Australia,Direct,11-50,29,278,278,1,2023-08-31,5,35,3,Too expensive
+CUST0161,2022-11-23,Professional,Annual,Logistics,USA,Referral,1-10,79,758,758,0,,16,67,3,
+CUST0162,2023-09-07,Enterprise,Monthly,Media,Brazil,Partner,1-10,299,2870,299,0,,6,71,2,
+CUST0163,2022-03-17,Starter,Monthly,HR Tech,Brazil,Social Media,500+,29,278,29,0,,24,41,2,
+CUST0164,2022-01-18,Professional,Annual,Media,USA,Referral,201-500,79,758,758,0,,26,51,0,
+CUST0165,2023-03-16,Professional,Monthly,Logistics,USA,Paid Ads,201-500,79,758,79,0,,12,56,1,
+CUST0166,2022-07-23,Professional,Monthly,Logistics,India,Social Media,201-500,79,758,79,0,,20,57,1,
+CUST0167,2023-07-06,Enterprise,Monthly,E-Commerce,USA,Paid Ads,1-10,299,2870,299,0,,8,42,1,
+CUST0168,2023-02-18,Starter,Monthly,Logistics,Germany,Organic Search,1-10,29,278,29,1,2023-05-19,3,22,5,Poor support
+CUST0169,2022-09-24,Professional,Monthly,SaaS,Australia,Direct,11-50,79,758,79,0,,18,56,0,
+CUST0170,2022-12-21,Professional,Monthly,FinTech,Brazil,Organic Search,11-50,79,758,79,0,,15,34,2,
+CUST0171,2023-07-15,Starter,Monthly,Logistics,Nigeria,Partner,500+,29,278,29,0,,8,73,1,
+CUST0172,2023-08-29,Starter,Monthly,FinTech,Australia,Partner,51-200,29,278,29,0,,7,57,1,
+CUST0173,2022-03-27,Professional,Annual,EdTech,Canada,Direct,1-10,79,758,758,1,2022-07-25,4,36,2,No longer needed
+CUST0174,2022-08-31,Business,Monthly,Logistics,Australia,Paid Ads,11-50,149,1430,149,1,2024-01-23,17,35,4,Missing features
+CUST0175,2023-05-10,Enterprise,Annual,HR Tech,USA,Social Media,201-500,299,2870,2870,0,2024-03-31,18,67,3,
+CUST0176,2022-07-12,Starter,Monthly,Logistics,Canada,Referral,201-500,29,278,29,1,2023-12-04,17,20,6,Usability issues
+CUST0177,2023-07-04,Professional,Monthly,FinTech,UK,Paid Ads,1-10,79,758,79,1,2023-12-31,6,36,2,Usability issues
+CUST0178,2022-07-19,Professional,Annual,SaaS,Nigeria,Referral,11-50,79,758,758,1,2023-09-12,14,65,5,Too expensive
+CUST0179,2022-08-18,Starter,Annual,Media,USA,Direct,11-50,29,278,278,0,,19,44,3,
+CUST0180,2022-08-25,Professional,Monthly,HR Tech,Germany,Referral,201-500,79,758,79,0,,19,75,2,
+CUST0181,2023-01-01,Enterprise,Monthly,E-Commerce,India,Partner,11-50,299,2870,299,0,,15,82,1,
+CUST0182,2023-07-25,Professional,Monthly,FinTech,India,Partner,500+,79,758,79,0,,8,90,3,
+CUST0183,2023-06-21,Professional,Annual,HealthTech,UK,Referral,1-10,79,758,758,0,,9,86,2,
+CUST0184,2022-09-01,Starter,Annual,EdTech,UK,Direct,1-10,29,278,278,1,2023-10-26,14,92,2,Switched to competitor
+CUST0185,2022-11-24,Professional,Annual,E-Commerce,Canada,Organic Search,11-50,79,758,758,1,2024-01-18,14,57,0,Too expensive
+CUST0186,2023-03-12,Starter,Monthly,Logistics,Australia,Organic Search,11-50,29,278,29,0,,12,73,2,
+CUST0187,2022-06-30,Enterprise,Monthly,E-Commerce,UK,Organic Search,11-50,299,2870,299,0,,21,80,3,
+CUST0188,2022-03-20,Starter,Monthly,SaaS,Germany,Social Media,201-500,29,278,29,0,,24,96,3,
+CUST0189,2023-03-22,Professional,Monthly,HealthTech,UK,Direct,51-200,79,758,79,0,,12,79,1,
+CUST0190,2022-12-28,Starter,Annual,E-Commerce,Germany,Paid Ads,201-500,29,278,278,1,2023-12-23,12,77,3,Too expensive
+CUST0191,2023-04-24,Enterprise,Monthly,SaaS,Australia,Organic Search,11-50,299,2870,299,1,2024-03-19,11,29,2,Missing features
+CUST0192,2023-04-16,Professional,Annual,SaaS,USA,Partner,1-10,79,758,758,0,2024-03-31,12,59,1,
+CUST0193,2022-05-12,Starter,Annual,Logistics,USA,Direct,51-200,29,278,278,1,2023-07-06,14,38,5,Too expensive
+CUST0194,2022-03-31,Enterprise,Monthly,HealthTech,UK,Paid Ads,11-50,299,2870,299,0,,24,74,2,
+CUST0195,2023-07-20,Enterprise,Annual,Media,USA,Direct,51-200,299,2870,2870,0,,8,77,0,
+CUST0196,2022-01-23,Business,Monthly,EdTech,India,Partner,11-50,149,1430,149,0,,26,68,0,
+CUST0197,2022-03-31,Starter,Monthly,SaaS,Germany,Direct,51-200,29,278,29,0,,24,58,3,
+CUST0198,2023-03-30,Starter,Monthly,FinTech,Germany,Social Media,11-50,29,278,29,0,,12,82,0,
+CUST0199,2023-04-25,Professional,Annual,E-Commerce,Australia,Social Media,1-10,79,758,758,0,,11,37,1,
+CUST0200,2023-03-05,Professional,Annual,Logistics,Nigeria,Referral,11-50,79,758,758,0,,13,41,1,
+CUST0201,2022-01-11,Starter,Monthly,Logistics,Canada,Partner,51-200,29,278,29,0,,27,59,2,
+CUST0202,2023-01-02,Enterprise,Annual,EdTech,Brazil,Social Media,51-200,299,2870,2870,1,2023-12-28,12,44,2,Too expensive
+CUST0203,2022-07-10,Enterprise,Annual,E-Commerce,UK,Organic Search,11-50,299,2870,2870,0,,21,79,0,
+CUST0204,2022-08-27,Business,Annual,HealthTech,Canada,Social Media,11-50,149,1430,1430,1,2023-09-21,13,73,2,Too expensive
+CUST0205,2022-07-12,Professional,Monthly,Logistics,Nigeria,Social Media,201-500,79,758,79,0,,20,61,3,
+CUST0206,2022-06-14,Professional,Annual,Media,USA,Social Media,51-200,79,758,758,1,2023-06-09,12,43,1,Too expensive
+CUST0207,2023-03-02,Business,Monthly,Logistics,Germany,Paid Ads,201-500,149,1430,149,0,,13,70,2,
+CUST0208,2022-04-05,Professional,Monthly,E-Commerce,USA,Direct,500+,79,758,79,1,2023-03-31,12,52,1,No longer needed
+CUST0209,2022-02-10,Professional,Monthly,SaaS,Australia,Organic Search,1-10,79,758,79,1,2023-02-05,12,20,2,No longer needed
+CUST0210,2023-04-27,Enterprise,Monthly,Logistics,Australia,Social Media,201-500,299,2870,299,0,,11,52,3,
+CUST0211,2022-02-27,Business,Annual,E-Commerce,Nigeria,Partner,1-10,149,1430,1430,1,2024-02-17,24,21,4,Too expensive
+CUST0212,2022-02-20,Starter,Annual,HR Tech,USA,Organic Search,1-10,29,278,278,1,2023-04-16,14,53,1,Switched to competitor
+CUST0213,2022-10-08,Business,Annual,HealthTech,Germany,Partner,11-50,149,1430,1430,1,2023-12-02,14,15,8,Too expensive
+CUST0214,2022-08-30,Starter,Annual,E-Commerce,USA,Referral,51-200,29,278,278,0,,19,73,3,
+CUST0215,2023-06-01,Starter,Monthly,Media,Canada,Direct,1-10,29,278,29,0,,10,77,3,
+CUST0216,2023-05-01,Starter,Annual,HR Tech,UK,Paid Ads,1-10,29,278,278,0,2024-03-31,12,73,1,
+CUST0217,2022-01-01,Enterprise,Annual,EdTech,Germany,Partner,1-10,299,2870,2870,0,,27,85,3,
+CUST0218,2023-06-01,Professional,Monthly,HealthTech,Nigeria,Organic Search,11-50,79,758,79,0,,10,74,3,
+CUST0219,2022-04-05,Professional,Annual,FinTech,Nigeria,Social Media,51-200,79,758,758,1,2023-04-30,13,41,2,Too expensive
+CUST0220,2022-10-18,Starter,Monthly,EdTech,UK,Social Media,201-500,29,278,29,0,,17,75,2,
+CUST0221,2022-03-07,Starter,Annual,Media,USA,Organic Search,11-50,29,278,278,1,2023-03-02,12,68,2,Too expensive
+CUST0222,2022-11-16,Business,Annual,HR Tech,India,Organic Search,1-10,149,1430,1430,1,2023-11-11,12,34,6,Missing features
+CUST0223,2022-05-02,Starter,Annual,SaaS,Australia,Paid Ads,201-500,29,278,278,0,,23,79,1,
+CUST0224,2022-07-27,Business,Monthly,Logistics,Brazil,Direct,201-500,149,1430,149,0,,20,90,0,
+CUST0225,2023-05-06,Enterprise,Monthly,HealthTech,USA,Social Media,11-50,299,2870,299,1,2024-01-01,8,30,7,Switched to competitor
+CUST0226,2022-02-12,Professional,Annual,SaaS,Australia,Paid Ads,201-500,79,758,758,1,2023-03-09,13,23,5,Too expensive
+CUST0227,2023-05-08,Business,Annual,Logistics,Germany,Organic Search,500+,149,1430,1430,0,,10,73,2,
+CUST0228,2022-06-25,Business,Monthly,Media,Germany,Partner,11-50,149,1430,149,0,,21,54,3,
+CUST0229,2022-11-21,Starter,Annual,SaaS,Brazil,Referral,1-10,29,278,278,1,2023-11-16,12,46,8,Too expensive
+CUST0230,2023-04-17,Starter,Monthly,HR Tech,Brazil,Paid Ads,1-10,29,278,29,0,,11,72,0,
+CUST0231,2023-09-21,Enterprise,Annual,Media,UK,Paid Ads,51-200,299,2870,2870,0,2024-03-31,12,48,3,
+CUST0232,2023-08-13,Starter,Monthly,FinTech,Nigeria,Partner,51-200,29,278,29,0,,7,57,3,
+CUST0233,2023-03-09,Starter,Monthly,Media,Nigeria,Organic Search,201-500,29,278,29,0,,12,70,3,
+CUST0234,2022-06-09,Professional,Monthly,SaaS,Germany,Organic Search,51-200,79,758,79,0,,22,60,0,
+CUST0235,2022-07-11,Business,Monthly,Media,India,Partner,201-500,149,1430,149,0,,20,75,0,
+CUST0236,2022-07-23,Professional,Monthly,HR Tech,Australia,Referral,51-200,79,758,79,0,,20,78,3,
+CUST0237,2023-04-25,Business,Monthly,EdTech,Nigeria,Social Media,500+,149,1430,149,0,,11,75,1,
+CUST0238,2023-07-21,Starter,Annual,SaaS,Australia,Paid Ads,1-10,29,278,278,0,2024-03-31,12,83,1,
+CUST0239,2022-11-18,Business,Monthly,E-Commerce,Germany,Referral,51-200,149,1430,149,1,2023-09-14,10,24,8,Too expensive
+CUST0240,2023-01-28,Professional,Monthly,E-Commerce,Brazil,Social Media,500+,79,758,79,0,,14,50,2,
+CUST0241,2022-01-09,Professional,Annual,HealthTech,Germany,Social Media,201-500,79,758,758,1,2023-11-30,23,26,1,Budget cuts
+CUST0242,2023-08-05,Starter,Monthly,SaaS,Nigeria,Paid Ads,1-10,29,278,29,0,,7,72,0,
+CUST0243,2022-10-08,Starter,Annual,Logistics,UK,Paid Ads,51-200,29,278,278,0,,18,56,1,
+CUST0244,2023-09-01,Professional,Annual,E-Commerce,India,Direct,51-200,79,758,758,0,,7,68,3,
+CUST0245,2023-07-14,Business,Annual,HealthTech,Nigeria,Referral,51-200,149,1430,1430,1,2023-11-11,4,41,5,Too expensive
+CUST0246,2023-02-25,Business,Annual,HR Tech,USA,Referral,11-50,149,1430,1430,0,2024-03-31,14,69,2,
+CUST0247,2022-11-19,Professional,Monthly,HR Tech,Canada,Organic Search,51-200,79,758,79,1,2024-02-12,15,21,6,Usability issues
+CUST0248,2022-02-19,Starter,Annual,EdTech,USA,Partner,500+,29,278,278,0,,25,70,2,
+CUST0249,2023-03-27,Professional,Annual,SaaS,India,Social Media,11-50,79,758,758,0,,12,70,3,
+CUST0250,2022-08-21,Professional,Annual,HealthTech,UK,Social Media,11-50,79,758,758,0,,19,57,0,
+CUST0251,2022-09-24,Enterprise,Annual,SaaS,Brazil,Paid Ads,201-500,299,2870,2870,0,,18,65,0,
+CUST0252,2022-02-08,Starter,Annual,Media,India,Partner,51-200,29,278,278,1,2023-04-04,14,23,7,Budget cuts
+CUST0253,2022-02-19,Professional,Annual,HR Tech,USA,Social Media,1-10,79,758,758,0,,25,44,2,
+CUST0254,2023-08-06,Enterprise,Monthly,Media,India,Paid Ads,1-10,299,2870,299,0,,7,56,2,
+CUST0255,2022-06-01,Starter,Monthly,EdTech,Canada,Organic Search,1-10,29,278,29,1,2023-02-26,9,27,2,No longer needed
+CUST0256,2023-06-08,Professional,Monthly,HealthTech,Australia,Organic Search,51-200,79,758,79,0,,9,63,1,
+CUST0257,2022-09-02,Starter,Monthly,HR Tech,Canada,Organic Search,51-200,29,278,29,1,2023-03-31,7,31,1,Switched to competitor
+CUST0258,2022-11-27,Professional,Monthly,HR Tech,Brazil,Social Media,11-50,79,758,79,0,,16,85,2,
+CUST0259,2022-04-25,Starter,Annual,SaaS,India,Referral,11-50,29,278,278,0,,23,86,1,
+CUST0260,2022-06-12,Professional,Monthly,Logistics,Canada,Paid Ads,11-50,79,758,79,0,,21,82,2,
+CUST0261,2023-03-19,Business,Annual,HR Tech,Nigeria,Partner,1-10,149,1430,1430,0,,12,60,3,
+CUST0262,2022-07-11,Professional,Annual,EdTech,UK,Paid Ads,11-50,79,758,758,1,2023-07-06,12,32,2,Too expensive
+CUST0263,2022-07-13,Professional,Annual,HealthTech,Australia,Direct,500+,79,758,758,0,,20,47,1,
+CUST0264,2022-12-19,Professional,Annual,EdTech,UK,Organic Search,51-200,79,758,758,0,2024-03-31,19,49,3,
+CUST0265,2023-06-17,Starter,Monthly,Logistics,Australia,Direct,11-50,29,278,29,1,2023-07-17,1,41,1,Switched to competitor
+CUST0266,2023-07-15,Starter,Annual,Logistics,Germany,Referral,11-50,29,278,278,0,2024-03-31,12,88,2,
+CUST0267,2022-09-28,Professional,Monthly,HR Tech,Australia,Referral,51-200,79,758,79,0,,18,63,2,
+CUST0268,2023-05-15,Business,Annual,Media,Germany,Social Media,201-500,149,1430,1430,0,2024-03-31,13,55,3,
+CUST0269,2022-12-31,Professional,Monthly,SaaS,Germany,Paid Ads,11-50,79,758,79,0,,15,72,0,
+CUST0270,2023-06-11,Professional,Annual,Media,UK,Referral,1-10,79,758,758,0,2024-03-31,12,81,1,
+CUST0271,2022-01-21,Professional,Monthly,HealthTech,Canada,Organic Search,51-200,79,758,79,0,,26,59,3,
+CUST0272,2023-02-24,Starter,Annual,EdTech,Brazil,Partner,11-50,29,278,278,1,2024-03-20,13,51,2,Too expensive
+CUST0273,2023-06-27,Professional,Annual,E-Commerce,Brazil,Organic Search,201-500,79,758,758,0,,9,68,2,
+CUST0274,2022-08-27,Starter,Annual,Media,Australia,Partner,51-200,29,278,278,1,2023-09-21,13,67,3,Switched to competitor
+CUST0275,2022-11-05,Business,Annual,HealthTech,Australia,Paid Ads,51-200,149,1430,1430,0,,17,61,2,
+CUST0276,2022-06-23,Business,Monthly,E-Commerce,USA,Paid Ads,51-200,149,1430,149,0,,21,86,2,
+CUST0277,2023-03-06,Business,Annual,SaaS,Germany,Organic Search,11-50,149,1430,1430,1,2024-03-30,13,32,4,Usability issues
+CUST0278,2023-09-22,Enterprise,Annual,EdTech,UK,Paid Ads,11-50,299,2870,2870,0,,6,60,0,
+CUST0279,2023-06-11,Professional,Monthly,E-Commerce,India,Social Media,11-50,79,758,79,1,2023-10-09,4,40,5,Usability issues
+CUST0280,2022-12-05,Starter,Annual,EdTech,Brazil,Social Media,11-50,29,278,278,1,2023-11-30,12,27,3,No longer needed
+CUST0281,2023-04-09,Professional,Annual,E-Commerce,Brazil,Social Media,51-200,79,758,758,0,,11,74,3,
+CUST0282,2022-06-19,Starter,Monthly,EdTech,India,Referral,11-50,29,278,29,0,,21,76,3,
+CUST0283,2023-08-16,Professional,Annual,E-Commerce,Nigeria,Organic Search,1-10,79,758,758,0,,7,58,1,
+CUST0284,2022-12-07,Starter,Monthly,EdTech,USA,Partner,51-200,29,278,29,0,,16,67,3,
+CUST0285,2022-09-20,Professional,Monthly,SaaS,UK,Partner,201-500,79,758,79,0,,18,67,0,
+CUST0286,2023-02-26,Business,Monthly,Logistics,Australia,Social Media,11-50,149,1430,149,1,2023-12-23,10,29,8,Missing features
+CUST0287,2023-05-18,Starter,Monthly,SaaS,Nigeria,Direct,11-50,29,278,29,1,2023-07-17,2,21,1,Poor support
+CUST0288,2022-04-16,Enterprise,Monthly,EdTech,Australia,Paid Ads,1-10,299,2870,299,1,2022-08-14,4,46,2,Too expensive
+CUST0289,2022-03-02,Professional,Monthly,Media,Nigeria,Social Media,51-200,79,758,79,0,,25,59,1,
+CUST0290,2022-12-17,Enterprise,Annual,FinTech,USA,Social Media,1-10,299,2870,2870,1,2024-01-11,13,41,7,Too expensive
+CUST0291,2023-04-29,Starter,Monthly,FinTech,India,Social Media,11-50,29,278,29,0,,11,81,0,
+CUST0292,2023-03-31,Starter,Monthly,HealthTech,USA,Partner,500+,29,278,29,0,,12,61,2,
+CUST0293,2023-05-16,Starter,Monthly,HR Tech,Brazil,Referral,11-50,29,278,29,1,2023-12-12,7,44,3,No longer needed
+CUST0294,2022-05-14,Business,Annual,SaaS,Canada,Organic Search,51-200,149,1430,1430,0,,22,50,1,
+CUST0295,2022-09-10,Enterprise,Monthly,HR Tech,Australia,Organic Search,1-10,299,2870,299,0,,18,81,1,
+CUST0296,2022-05-27,Starter,Annual,Logistics,Nigeria,Partner,201-500,29,278,278,0,,22,49,3,
+CUST0297,2022-04-13,Professional,Monthly,FinTech,India,Referral,1-10,79,758,79,0,,23,54,1,
+CUST0298,2023-02-09,Starter,Monthly,E-Commerce,USA,Organic Search,1-10,29,278,29,0,,13,62,1,
+CUST0299,2023-01-22,Starter,Monthly,FinTech,UK,Paid Ads,51-200,29,278,29,1,2023-10-19,9,27,4,Budget cuts
+CUST0300,2023-04-07,Enterprise,Annual,SaaS,Nigeria,Partner,500+,299,2870,2870,0,,11,61,2,
+CUST0301,2022-12-21,Starter,Monthly,EdTech,Germany,Referral,51-200,29,278,29,1,2023-08-18,8,39,7,Usability issues
+CUST0302,2023-04-25,Enterprise,Monthly,HR Tech,Australia,Social Media,1-10,299,2870,299,0,,11,77,1,
+CUST0303,2022-10-14,Business,Monthly,FinTech,Australia,Organic Search,11-50,149,1430,149,0,,17,47,1,
+CUST0304,2023-05-10,Business,Monthly,E-Commerce,Canada,Partner,51-200,149,1430,149,0,,10,68,3,
+CUST0305,2022-08-18,Professional,Annual,HR Tech,Germany,Social Media,51-200,79,758,758,1,2023-10-12,14,44,3,Too expensive
+CUST0306,2022-05-07,Starter,Annual,HR Tech,Brazil,Organic Search,11-50,29,278,278,1,2023-05-02,12,24,6,Missing features
+CUST0307,2022-07-25,Business,Monthly,FinTech,Nigeria,Organic Search,1-10,149,1430,149,0,,20,78,1,
+CUST0308,2022-11-06,Starter,Annual,Logistics,Germany,Organic Search,201-500,29,278,278,1,2023-12-31,14,38,6,Too expensive
+CUST0309,2022-06-02,Professional,Monthly,HR Tech,Brazil,Partner,11-50,79,758,79,0,,22,51,3,
+CUST0310,2023-01-08,Enterprise,Annual,EdTech,UK,Direct,1-10,299,2870,2870,0,,14,72,3,
+CUST0311,2023-01-28,Starter,Monthly,SaaS,India,Referral,1-10,29,278,29,1,2023-12-24,11,42,4,Budget cuts
+CUST0312,2023-08-27,Business,Annual,HealthTech,UK,Paid Ads,1-10,149,1430,1430,1,2023-10-26,2,39,7,Too expensive
+CUST0313,2023-01-01,Business,Monthly,Logistics,Canada,Paid Ads,1-10,149,1430,149,0,,15,71,1,
+CUST0314,2022-09-22,Professional,Monthly,HealthTech,Brazil,Social Media,11-50,79,758,79,1,2023-12-16,15,33,4,Budget cuts
+CUST0315,2022-12-29,Starter,Annual,SaaS,Germany,Referral,1-10,29,278,278,0,,15,72,3,
+CUST0316,2022-06-22,Starter,Monthly,FinTech,Germany,Referral,1-10,29,278,29,0,,21,43,1,
+CUST0317,2022-07-27,Starter,Monthly,HealthTech,India,Referral,201-500,29,278,29,0,,20,64,1,
+CUST0318,2023-02-28,Professional,Annual,Logistics,Australia,Paid Ads,11-50,79,758,758,0,2024-03-31,14,75,1,
+CUST0319,2022-12-18,Starter,Monthly,Media,Canada,Social Media,11-50,29,278,29,0,,15,76,2,
+CUST0320,2022-06-19,Starter,Monthly,HealthTech,Nigeria,Paid Ads,1-10,29,278,29,1,2023-03-16,9,32,5,Missing features
+CUST0321,2023-05-18,Enterprise,Monthly,E-Commerce,Brazil,Paid Ads,1-10,299,2870,299,0,,10,49,2,
+CUST0322,2023-08-14,Professional,Monthly,FinTech,Australia,Paid Ads,1-10,79,758,79,0,,7,54,0,
+CUST0323,2023-07-28,Professional,Monthly,Media,USA,Direct,500+,79,758,79,0,,8,65,2,
+CUST0324,2023-04-10,Starter,Annual,E-Commerce,Australia,Organic Search,11-50,29,278,278,0,,11,68,0,
+CUST0325,2023-01-15,Starter,Annual,SaaS,UK,Social Media,1-10,29,278,278,0,2024-03-31,16,59,2,
+CUST0326,2022-08-28,Business,Monthly,E-Commerce,USA,Organic Search,1-10,149,1430,149,0,,19,82,3,
+CUST0327,2022-07-25,Starter,Monthly,Logistics,Nigeria,Organic Search,11-50,29,278,29,1,2023-02-20,7,50,7,Switched to competitor
+CUST0328,2022-02-22,Starter,Monthly,SaaS,Brazil,Organic Search,1-10,29,278,29,0,,25,94,2,
+CUST0329,2022-08-28,Enterprise,Monthly,EdTech,Nigeria,Organic Search,51-200,299,2870,299,0,,19,42,3,
+CUST0330,2022-10-23,Professional,Monthly,E-Commerce,Nigeria,Referral,11-50,79,758,79,0,,17,59,3,
+CUST0331,2022-01-03,Professional,Annual,Logistics,India,Direct,500+,79,758,758,0,,27,60,2,
+CUST0332,2022-06-11,Business,Monthly,SaaS,Canada,Paid Ads,11-50,149,1430,149,1,2023-06-06,12,12,8,Budget cuts
+CUST0333,2022-08-20,Professional,Annual,E-Commerce,Australia,Organic Search,11-50,79,758,758,1,2023-09-14,13,75,3,Budget cuts
+CUST0334,2023-03-30,Business,Annual,HR Tech,UK,Partner,500+,149,1430,1430,0,,12,84,1,
+CUST0335,2023-09-14,Starter,Annual,EdTech,USA,Paid Ads,11-50,29,278,278,0,2024-03-31,14,71,2,
+CUST0336,2022-04-26,Professional,Annual,HR Tech,USA,Partner,51-200,79,758,758,1,2023-04-21,12,39,2,Too expensive
+CUST0337,2023-09-18,Business,Monthly,FinTech,Brazil,Direct,51-200,149,1430,149,1,2024-02-15,5,43,7,Missing features
+CUST0338,2022-06-24,Starter,Annual,SaaS,Canada,Referral,51-200,29,278,278,1,2023-08-18,14,61,0,Too expensive
+CUST0339,2022-05-12,Professional,Monthly,E-Commerce,USA,Organic Search,51-200,79,758,79,0,,22,90,1,
+CUST0340,2022-12-28,Business,Monthly,E-Commerce,UK,Partner,11-50,149,1430,149,0,,15,66,3,
+CUST0341,2022-09-29,Business,Monthly,SaaS,Canada,Referral,1-10,149,1430,149,0,,18,74,1,
+CUST0342,2022-12-17,Professional,Monthly,Logistics,Canada,Direct,201-500,79,758,79,0,,15,46,2,
+CUST0343,2023-01-12,Professional,Annual,EdTech,USA,Referral,500+,79,758,758,1,2024-03-07,14,18,6,Too expensive
+CUST0344,2023-02-20,Starter,Monthly,SaaS,USA,Social Media,11-50,29,278,29,0,,13,70,2,
+CUST0345,2022-05-23,Business,Monthly,Media,India,Paid Ads,51-200,149,1430,149,1,2023-05-18,12,11,2,Missing features
+CUST0346,2022-10-26,Starter,Monthly,HR Tech,Australia,Organic Search,500+,29,278,29,0,,17,60,2,
+CUST0347,2022-09-15,Starter,Annual,Logistics,USA,Paid Ads,1-10,29,278,278,1,2023-10-10,13,63,3,Budget cuts
+CUST0348,2023-01-18,Business,Annual,EdTech,Brazil,Paid Ads,201-500,149,1430,1430,1,2023-06-17,5,50,5,Too expensive
+CUST0349,2022-12-26,Enterprise,Annual,EdTech,UK,Organic Search,51-200,299,2870,2870,1,2024-01-20,13,29,8,Too expensive
+CUST0350,2023-08-11,Enterprise,Monthly,EdTech,Nigeria,Direct,51-200,299,2870,299,0,,7,74,2,
+CUST0351,2022-02-25,Professional,Monthly,FinTech,Australia,Social Media,11-50,79,758,79,1,2022-06-25,4,25,3,Usability issues
+CUST0352,2023-08-09,Enterprise,Annual,EdTech,Germany,Social Media,51-200,299,2870,2870,1,2024-01-06,5,40,8,Too expensive
+CUST0353,2022-05-24,Business,Monthly,HealthTech,Canada,Organic Search,11-50,149,1430,149,0,,22,60,3,
+CUST0354,2023-06-27,Professional,Monthly,SaaS,Canada,Partner,1-10,79,758,79,0,,9,68,1,
+CUST0355,2022-05-14,Enterprise,Monthly,Logistics,Canada,Partner,1-10,299,2870,299,1,2023-05-09,12,33,2,Too expensive
+CUST0356,2022-06-16,Business,Monthly,HR Tech,Canada,Partner,1-10,149,1430,149,0,,21,76,1,
+CUST0357,2023-07-07,Starter,Monthly,SaaS,Nigeria,Paid Ads,201-500,29,278,29,0,,8,68,0,
+CUST0358,2022-09-17,Enterprise,Monthly,FinTech,Germany,Organic Search,201-500,299,2870,299,0,,18,69,2,
+CUST0359,2022-05-15,Professional,Monthly,HealthTech,Australia,Referral,1-10,79,758,79,1,2023-11-06,18,20,6,Poor support
+CUST0360,2023-05-08,Starter,Annual,Logistics,UK,Social Media,201-500,29,278,278,0,2024-03-31,12,55,2,
+CUST0361,2022-12-01,Starter,Annual,EdTech,Nigeria,Social Media,51-200,29,278,278,0,,16,73,2,
+CUST0362,2023-01-04,Business,Monthly,HR Tech,Canada,Paid Ads,11-50,149,1430,149,0,,15,75,2,
+CUST0363,2022-09-04,Enterprise,Annual,SaaS,Brazil,Direct,51-200,299,2870,2870,0,,19,65,1,
+CUST0364,2022-07-07,Business,Annual,SaaS,UK,Paid Ads,11-50,149,1430,1430,1,2023-07-02,12,79,1,Too expensive
+CUST0365,2022-07-06,Starter,Monthly,Logistics,India,Referral,11-50,29,278,29,1,2022-11-03,4,34,4,No longer needed
+CUST0366,2022-04-02,Starter,Monthly,SaaS,Australia,Direct,1-10,29,278,29,1,2022-07-31,4,23,6,Switched to competitor
+CUST0367,2022-03-19,Professional,Monthly,Logistics,Canada,Social Media,11-50,79,758,79,0,,24,81,0,
+CUST0368,2022-08-19,Professional,Annual,HealthTech,Australia,Social Media,51-200,79,758,758,0,2024-03-31,20,92,3,
+CUST0369,2022-01-02,Enterprise,Monthly,HealthTech,Brazil,Referral,1-10,299,2870,299,0,,27,40,2,
+CUST0370,2023-03-09,Enterprise,Monthly,Logistics,Australia,Referral,1-10,299,2870,299,0,,12,61,1,
+CUST0371,2023-02-22,Starter,Monthly,E-Commerce,Nigeria,Direct,11-50,29,278,29,1,2024-02-17,12,62,6,Usability issues
+CUST0372,2023-06-22,Business,Monthly,Logistics,USA,Organic Search,51-200,149,1430,149,0,,9,61,1,
+CUST0373,2022-11-24,Professional,Monthly,EdTech,Germany,Direct,11-50,79,758,79,0,,16,79,3,
+CUST0374,2022-04-08,Professional,Annual,SaaS,Nigeria,Direct,11-50,79,758,758,1,2023-06-02,14,76,2,Too expensive
+CUST0375,2022-04-21,Professional,Monthly,HR Tech,Nigeria,Partner,11-50,79,758,79,0,,23,66,1,
+CUST0376,2022-10-11,Professional,Annual,EdTech,Canada,Social Media,51-200,79,758,758,1,2023-11-05,13,66,3,Too expensive
+CUST0377,2022-06-07,Starter,Annual,EdTech,Brazil,Referral,1-10,29,278,278,0,,22,78,1,
+CUST0378,2022-12-07,Starter,Annual,Logistics,Nigeria,Partner,11-50,29,278,278,1,2024-01-31,14,60,0,Too expensive
+CUST0379,2022-11-09,Starter,Annual,Logistics,USA,Social Media,11-50,29,278,278,0,,16,69,2,
+CUST0380,2022-04-08,Business,Monthly,Logistics,Brazil,Direct,11-50,149,1430,149,0,,24,64,1,
+CUST0381,2023-04-28,Starter,Annual,Media,Canada,Direct,51-200,29,278,278,0,,11,64,0,
+CUST0382,2023-08-30,Professional,Annual,FinTech,UK,Referral,500+,79,758,758,0,2024-03-31,12,69,2,
+CUST0383,2022-12-26,Starter,Annual,SaaS,Germany,Direct,51-200,29,278,278,1,2024-01-20,13,20,2,Budget cuts
+CUST0384,2022-08-27,Enterprise,Annual,SaaS,Germany,Social Media,1-10,299,2870,2870,1,2023-02-23,6,44,3,Switched to competitor
+CUST0385,2023-05-22,Professional,Annual,SaaS,Australia,Referral,1-10,79,758,758,0,,10,71,3,
+CUST0386,2022-05-10,Enterprise,Annual,Media,Australia,Paid Ads,1-10,299,2870,2870,1,2023-06-04,13,54,1,Too expensive
+CUST0387,2022-11-17,Business,Annual,Logistics,Australia,Referral,1-10,149,1430,1430,1,2023-11-12,12,72,2,Too expensive
+CUST0388,2022-02-08,Business,Annual,SaaS,India,Organic Search,1-10,149,1430,1430,1,2022-08-07,6,12,7,No longer needed
+CUST0389,2023-09-09,Enterprise,Monthly,E-Commerce,Canada,Referral,201-500,299,2870,299,0,,6,66,3,
+CUST0390,2022-02-25,Business,Annual,Logistics,Australia,Organic Search,1-10,149,1430,1430,0,,25,66,1,
+CUST0391,2022-08-12,Business,Monthly,EdTech,Canada,Social Media,500+,149,1430,149,0,,19,37,3,
+CUST0392,2023-01-29,Starter,Monthly,SaaS,Australia,Paid Ads,11-50,29,278,29,1,2023-08-27,7,38,2,Budget cuts
+CUST0393,2022-03-21,Business,Monthly,E-Commerce,Germany,Social Media,11-50,149,1430,149,1,2022-07-19,4,29,4,Too expensive
+CUST0394,2023-05-12,Professional,Monthly,Logistics,Canada,Partner,51-200,79,758,79,1,2024-03-07,10,40,1,No longer needed
+CUST0395,2022-09-09,Business,Monthly,FinTech,UK,Partner,500+,149,1430,149,0,,18,58,2,
+CUST0396,2022-09-22,Professional,Monthly,SaaS,Australia,Direct,500+,79,758,79,0,,18,57,2,
+CUST0397,2022-09-04,Starter,Monthly,SaaS,Nigeria,Referral,51-200,29,278,29,0,,19,65,1,
+CUST0398,2022-06-03,Starter,Monthly,E-Commerce,Australia,Paid Ads,51-200,29,278,29,1,2022-11-30,6,36,3,No longer needed
+CUST0399,2022-01-25,Professional,Monthly,Media,Nigeria,Organic Search,11-50,79,758,79,0,,26,64,0,
+CUST0400,2023-08-10,Enterprise,Monthly,Logistics,UK,Organic Search,11-50,299,2870,299,0,,7,61,3,
+CUST0401,2022-08-25,Professional,Monthly,HealthTech,Canada,Organic Search,1-10,79,758,79,0,,19,50,0,
+CUST0402,2022-09-27,Professional,Monthly,HR Tech,Nigeria,Paid Ads,201-500,79,758,79,0,,18,69,0,
+CUST0403,2022-12-13,Starter,Monthly,SaaS,UK,Social Media,11-50,29,278,29,0,,15,62,2,
+CUST0404,2022-11-23,Professional,Annual,E-Commerce,India,Paid Ads,11-50,79,758,758,1,2024-01-17,14,64,3,Too expensive
+CUST0405,2023-08-22,Business,Annual,Media,UK,Referral,201-500,149,1430,1430,0,,7,36,1,
+CUST0406,2022-08-16,Enterprise,Monthly,HR Tech,Australia,Direct,1-10,299,2870,299,0,,19,61,0,
+CUST0407,2023-07-10,Enterprise,Annual,Media,Australia,Organic Search,11-50,299,2870,2870,0,,8,68,2,
+CUST0408,2023-09-19,Professional,Annual,SaaS,UK,Paid Ads,201-500,79,758,758,0,,6,85,1,
+CUST0409,2023-02-23,Starter,Annual,EdTech,USA,Referral,1-10,29,278,278,1,2023-08-22,6,9,5,Too expensive
+CUST0410,2022-04-21,Starter,Monthly,HealthTech,USA,Paid Ads,1-10,29,278,29,0,,23,33,3,
+CUST0411,2023-09-30,Business,Monthly,Media,Canada,Referral,1-10,149,1430,149,0,,6,80,2,
+CUST0412,2022-11-21,Professional,Monthly,Logistics,USA,Direct,11-50,79,758,79,0,,16,51,0,
+CUST0413,2022-04-24,Business,Annual,FinTech,Nigeria,Referral,201-500,149,1430,1430,1,2023-04-19,12,85,3,Too expensive
+CUST0414,2022-07-15,Business,Annual,FinTech,USA,Paid Ads,1-10,149,1430,1430,0,,20,53,2,
+CUST0415,2023-08-05,Business,Monthly,Logistics,USA,Referral,1-10,149,1430,149,1,2024-01-02,5,3,8,Switched to competitor
+CUST0416,2022-08-30,Professional,Annual,HR Tech,UK,Partner,500+,79,758,758,0,,19,57,1,
+CUST0417,2023-09-03,Enterprise,Monthly,FinTech,USA,Direct,1-10,299,2870,299,0,,7,76,0,
+CUST0418,2022-01-28,Professional,Annual,E-Commerce,UK,Organic Search,11-50,79,758,758,0,,26,39,3,
+CUST0419,2022-10-09,Enterprise,Monthly,FinTech,Australia,Paid Ads,11-50,299,2870,299,0,,17,52,0,
+CUST0420,2023-01-11,Starter,Monthly,FinTech,Nigeria,Direct,1-10,29,278,29,0,,14,95,2,
+CUST0421,2023-01-02,Professional,Monthly,HealthTech,USA,Direct,51-200,79,758,79,0,,15,73,0,
+CUST0422,2022-11-08,Business,Monthly,SaaS,Australia,Paid Ads,51-200,149,1430,149,0,,16,58,0,
+CUST0423,2022-09-24,Professional,Annual,EdTech,UK,Referral,201-500,79,758,758,1,2023-11-18,14,60,0,Too expensive
+CUST0424,2023-01-09,Professional,Annual,Media,USA,Paid Ads,11-50,79,758,758,1,2024-01-04,12,63,2,Switched to competitor
+CUST0425,2022-08-22,Business,Monthly,Media,Australia,Partner,11-50,149,1430,149,0,,19,80,3,
+CUST0426,2022-12-25,Enterprise,Monthly,Media,USA,Referral,11-50,299,2870,299,0,,15,58,2,
+CUST0427,2022-06-14,Professional,Annual,Media,Australia,Social Media,500+,79,758,758,1,2023-06-09,12,16,4,Switched to competitor
+CUST0428,2022-11-22,Business,Annual,E-Commerce,USA,Direct,1-10,149,1430,1430,1,2023-11-17,12,80,1,Budget cuts
+CUST0429,2022-06-16,Business,Monthly,FinTech,Germany,Paid Ads,51-200,149,1430,149,0,,21,50,0,
+CUST0430,2022-01-13,Professional,Annual,Media,Australia,Paid Ads,11-50,79,758,758,1,2023-01-08,12,37,1,No longer needed
+CUST0431,2022-12-18,Professional,Monthly,EdTech,Brazil,Referral,51-200,79,758,79,0,,15,87,3,
+CUST0432,2022-08-15,Enterprise,Monthly,EdTech,UK,Direct,1-10,299,2870,299,0,,19,79,2,
+CUST0433,2023-06-29,Business,Monthly,FinTech,USA,Referral,51-200,149,1430,149,1,2023-07-29,1,47,4,Poor support
+CUST0434,2023-03-23,Professional,Monthly,HealthTech,Brazil,Social Media,51-200,79,758,79,0,,12,88,3,
+CUST0435,2023-04-20,Professional,Monthly,EdTech,USA,Direct,11-50,79,758,79,0,,11,94,3,
+CUST0436,2022-08-15,Business,Monthly,HealthTech,UK,Direct,1-10,149,1430,149,1,2023-05-12,9,53,2,Poor support
+CUST0437,2023-09-07,Business,Annual,SaaS,UK,Paid Ads,11-50,149,1430,1430,0,2024-03-31,21,52,0,
+CUST0438,2022-11-01,Starter,Annual,Media,USA,Direct,11-50,29,278,278,1,2023-11-26,13,50,8,Too expensive
+CUST0439,2023-05-27,Starter,Annual,FinTech,Brazil,Referral,1-10,29,278,278,0,2024-03-31,18,62,2,
+CUST0440,2023-06-14,Enterprise,Annual,HR Tech,Brazil,Referral,51-200,299,2870,2870,0,,9,57,1,
+CUST0441,2023-04-30,Starter,Annual,SaaS,Germany,Referral,1-10,29,278,278,1,2023-09-27,5,37,7,Too expensive
+CUST0442,2023-06-05,Professional,Monthly,Media,UK,Partner,11-50,79,758,79,1,2024-01-31,8,67,5,Usability issues
+CUST0443,2022-04-02,Professional,Annual,SaaS,India,Partner,11-50,79,758,758,1,2023-05-27,14,22,8,Switched to competitor
+CUST0444,2022-10-13,Business,Monthly,HealthTech,USA,Social Media,51-200,149,1430,149,0,,17,68,3,
+CUST0445,2023-06-16,Business,Monthly,HR Tech,Canada,Referral,1-10,149,1430,149,0,,9,70,1,
+CUST0446,2022-08-05,Professional,Monthly,EdTech,Australia,Direct,51-200,79,758,79,0,,20,86,1,
+CUST0447,2022-04-09,Business,Annual,HR Tech,Canada,Social Media,201-500,149,1430,1430,0,,24,87,0,
+CUST0448,2023-05-19,Starter,Monthly,FinTech,Australia,Social Media,51-200,29,278,29,0,,10,59,3,
+CUST0449,2022-10-24,Enterprise,Monthly,FinTech,Australia,Organic Search,51-200,299,2870,299,0,,17,54,1,
+CUST0450,2022-03-21,Professional,Annual,Logistics,Nigeria,Referral,1-10,79,758,758,1,2023-05-15,14,92,0,Too expensive
+CUST0451,2022-02-20,Professional,Monthly,FinTech,Canada,Partner,51-200,79,758,79,0,,25,88,3,
+CUST0452,2023-07-17,Business,Monthly,FinTech,Nigeria,Paid Ads,51-200,149,1430,149,0,,8,53,0,
+CUST0453,2022-03-07,Business,Monthly,EdTech,Australia,Organic Search,51-200,149,1430,149,0,,25,62,2,
+CUST0454,2022-12-11,Professional,Monthly,FinTech,USA,Partner,1-10,79,758,79,0,,15,78,1,
+CUST0455,2023-07-03,Professional,Monthly,Media,Nigeria,Direct,11-50,79,758,79,0,,9,56,1,
+CUST0456,2023-03-08,Enterprise,Monthly,Media,India,Paid Ads,51-200,299,2870,299,0,,12,58,0,
+CUST0457,2022-01-02,Professional,Monthly,FinTech,Australia,Paid Ads,500+,79,758,79,0,,27,41,2,
+CUST0458,2022-11-26,Business,Monthly,Logistics,UK,Organic Search,51-200,149,1430,149,0,,16,91,3,
+CUST0459,2022-11-24,Enterprise,Monthly,Logistics,Brazil,Paid Ads,201-500,299,2870,299,0,,16,92,3,
+CUST0460,2023-01-20,Enterprise,Monthly,HR Tech,USA,Organic Search,51-200,299,2870,299,0,,14,79,0,
+CUST0461,2023-01-29,Business,Monthly,HealthTech,Germany,Paid Ads,11-50,149,1430,149,0,,14,64,1,
+CUST0462,2022-10-27,Business,Annual,Logistics,Brazil,Organic Search,201-500,149,1430,1430,1,2023-12-21,14,65,2,Too expensive
+CUST0463,2022-11-24,Professional,Monthly,Media,India,Direct,51-200,79,758,79,0,,16,89,3,
+CUST0464,2022-06-03,Professional,Monthly,E-Commerce,Australia,Direct,51-200,79,758,79,0,,22,74,3,
+CUST0465,2022-01-10,Starter,Annual,SaaS,Canada,Direct,11-50,29,278,278,1,2023-01-05,12,24,6,Too expensive
+CUST0466,2022-05-29,Starter,Monthly,FinTech,Nigeria,Referral,11-50,29,278,29,0,,22,41,3,
+CUST0467,2022-12-06,Business,Annual,E-Commerce,India,Organic Search,51-200,149,1430,1430,0,,16,51,2,
+CUST0468,2022-01-15,Starter,Monthly,HR Tech,USA,Social Media,51-200,29,278,29,0,,26,54,3,
+CUST0469,2022-09-21,Enterprise,Monthly,SaaS,Canada,Direct,11-50,299,2870,299,1,2023-08-17,11,16,8,No longer needed
+CUST0470,2022-06-30,Professional,Monthly,HealthTech,India,Paid Ads,201-500,79,758,79,0,,21,64,1,
+CUST0471,2022-11-20,Business,Monthly,HealthTech,Canada,Direct,500+,149,1430,149,0,,16,65,1,
+CUST0472,2023-06-19,Enterprise,Annual,Logistics,Nigeria,Partner,1-10,299,2870,2870,0,,9,67,1,
+CUST0473,2022-04-08,Starter,Monthly,FinTech,Nigeria,Partner,11-50,29,278,29,1,2023-01-03,9,30,1,Budget cuts
+CUST0474,2022-08-02,Business,Annual,E-Commerce,Canada,Partner,11-50,149,1430,1430,1,2023-08-27,13,43,6,Too expensive
+CUST0475,2023-04-22,Professional,Annual,HR Tech,USA,Referral,11-50,79,758,758,0,2024-03-31,12,73,1,
+CUST0476,2023-02-09,Professional,Monthly,Logistics,Brazil,Social Media,1-10,79,758,79,1,2023-08-08,6,42,1,Budget cuts
+CUST0477,2022-11-14,Business,Monthly,HR Tech,Brazil,Social Media,1-10,149,1430,149,0,,16,71,3,
+CUST0478,2022-03-18,Professional,Annual,SaaS,USA,Referral,201-500,79,758,758,1,2023-04-12,13,10,2,Too expensive
+CUST0479,2023-09-01,Enterprise,Annual,HealthTech,USA,Paid Ads,201-500,299,2870,2870,0,2024-03-31,18,91,3,
+CUST0480,2022-04-14,Professional,Monthly,HR Tech,Australia,Referral,11-50,79,758,79,0,,23,60,2,
+CUST0481,2022-06-05,Starter,Monthly,HR Tech,India,Partner,201-500,29,278,29,0,,22,84,0,
+CUST0482,2023-04-01,Enterprise,Annual,E-Commerce,Germany,Referral,11-50,299,2870,2870,0,,12,79,1,
+CUST0483,2022-03-22,Professional,Annual,EdTech,USA,Direct,51-200,79,758,758,0,,24,62,1,
+CUST0484,2022-07-26,Enterprise,Monthly,FinTech,India,Paid Ads,11-50,299,2870,299,1,2022-10-24,3,48,5,Budget cuts
+CUST0485,2023-07-04,Professional,Annual,FinTech,Australia,Organic Search,11-50,79,758,758,0,,9,100,0,
+CUST0486,2023-02-21,Enterprise,Annual,HR Tech,Canada,Partner,11-50,299,2870,2870,1,2024-02-16,12,60,0,Too expensive
+CUST0487,2022-03-03,Business,Annual,Logistics,Canada,Direct,51-200,149,1430,1430,1,2023-04-27,14,14,2,Switched to competitor
+CUST0488,2023-01-19,Starter,Annual,Media,Brazil,Paid Ads,201-500,29,278,278,0,,14,86,3,
+CUST0489,2023-05-06,Starter,Monthly,E-Commerce,USA,Social Media,201-500,29,278,29,0,,11,83,3,
+CUST0490,2023-02-06,Starter,Monthly,EdTech,USA,Paid Ads,500+,29,278,29,0,,13,83,1,
+CUST0491,2023-07-10,Starter,Monthly,E-Commerce,Brazil,Referral,51-200,29,278,29,0,,8,61,3,
+CUST0492,2022-12-21,Starter,Annual,HealthTech,Nigeria,Direct,11-50,29,278,278,0,,15,67,1,
+CUST0493,2022-01-15,Enterprise,Monthly,FinTech,Australia,Paid Ads,1-10,299,2870,299,1,2023-07-09,18,3,5,Usability issues
+CUST0494,2023-02-18,Professional,Annual,E-Commerce,India,Social Media,500+,79,758,758,0,,13,56,1,
+CUST0495,2022-12-16,Starter,Monthly,E-Commerce,Nigeria,Referral,11-50,29,278,29,0,,15,55,2,
+CUST0496,2023-04-27,Professional,Monthly,Media,Nigeria,Partner,11-50,79,758,79,0,,11,58,1,
+CUST0497,2023-08-10,Business,Annual,Media,Nigeria,Organic Search,201-500,149,1430,1430,1,2024-02-06,6,40,3,Too expensive
+CUST0498,2023-04-14,Professional,Monthly,EdTech,UK,Social Media,51-200,79,758,79,0,,11,89,0,
+CUST0499,2022-03-21,Professional,Monthly,FinTech,Canada,Social Media,1-10,79,758,79,1,2023-08-13,17,44,6,Usability issues
+CUST0500,2023-03-29,Professional,Monthly,FinTech,Brazil,Organic Search,11-50,79,758,79,1,2023-10-25,7,45,2,Budget cuts
+CUST0501,2023-05-09,Business,Monthly,EdTech,Canada,Direct,11-50,149,1430,149,0,,10,80,0,
+CUST0502,2022-08-06,Starter,Annual,FinTech,Canada,Paid Ads,1-10,29,278,278,1,2023-08-01,12,61,0,Budget cuts
+CUST0503,2022-11-08,Enterprise,Annual,Media,India,Social Media,11-50,299,2870,2870,1,2023-12-03,13,54,3,Too expensive
+CUST0504,2023-05-13,Starter,Annual,Logistics,Brazil,Partner,11-50,29,278,278,0,2024-03-31,14,56,1,
+CUST0505,2022-11-10,Starter,Monthly,Media,Germany,Paid Ads,1-10,29,278,29,0,,16,60,0,
+CUST0506,2022-01-22,Enterprise,Monthly,FinTech,UK,Social Media,500+,299,2870,299,0,,26,76,1,
+CUST0507,2022-11-07,Business,Monthly,EdTech,India,Paid Ads,500+,149,1430,149,1,2023-03-07,4,23,4,Switched to competitor
+CUST0508,2022-02-19,Starter,Annual,EdTech,Canada,Paid Ads,1-10,29,278,278,1,2023-02-14,12,20,6,Budget cuts
+CUST0509,2023-08-17,Starter,Annual,EdTech,Germany,Paid Ads,11-50,29,278,278,0,2024-03-31,12,65,0,
+CUST0510,2022-01-02,Starter,Annual,EdTech,Nigeria,Direct,51-200,29,278,278,1,2023-08-25,20,31,6,Too expensive
+CUST0511,2022-06-05,Starter,Monthly,FinTech,UK,Social Media,1-10,29,278,29,0,,22,47,2,
+CUST0512,2022-04-24,Professional,Annual,FinTech,USA,Paid Ads,500+,79,758,758,1,2023-04-19,12,24,8,Too expensive
+CUST0513,2023-05-23,Starter,Monthly,HR Tech,Nigeria,Direct,51-200,29,278,29,0,,10,88,0,
+CUST0514,2023-08-24,Starter,Annual,HealthTech,Australia,Organic Search,11-50,29,278,278,0,2024-03-31,14,82,3,
+CUST0515,2022-03-20,Business,Monthly,EdTech,Germany,Social Media,11-50,149,1430,149,0,,24,65,0,
+CUST0516,2022-01-08,Starter,Monthly,FinTech,Canada,Partner,500+,29,278,29,0,,27,76,0,
+CUST0517,2023-08-03,Professional,Annual,SaaS,Nigeria,Referral,1-10,79,758,758,0,,8,49,3,
+CUST0518,2022-02-09,Starter,Monthly,E-Commerce,Brazil,Referral,201-500,29,278,29,0,,26,57,2,
+CUST0519,2023-02-08,Starter,Monthly,FinTech,Canada,Organic Search,11-50,29,278,29,0,,13,59,3,
+CUST0520,2022-07-13,Enterprise,Monthly,HR Tech,Nigeria,Paid Ads,1-10,299,2870,299,0,,20,50,3,
+CUST0521,2022-07-11,Starter,Annual,SaaS,Brazil,Organic Search,11-50,29,278,278,1,2023-08-05,13,69,3,Too expensive
+CUST0522,2023-08-12,Professional,Monthly,FinTech,USA,Referral,11-50,79,758,79,1,2024-02-08,6,18,5,Usability issues
+CUST0523,2022-12-18,Business,Monthly,Media,USA,Referral,11-50,149,1430,149,0,,15,59,3,
+CUST0524,2023-01-13,Business,Monthly,HealthTech,Brazil,Organic Search,1-10,149,1430,149,0,,14,90,0,
+CUST0525,2023-02-27,Starter,Monthly,HR Tech,Brazil,Partner,1-10,29,278,29,1,2024-03-23,13,63,7,Poor support
+CUST0526,2023-09-07,Starter,Monthly,Media,Canada,Paid Ads,1-10,29,278,29,1,2023-11-06,2,62,3,Budget cuts
+CUST0527,2022-10-12,Starter,Annual,HealthTech,USA,Organic Search,201-500,29,278,278,1,2023-12-06,14,27,4,Too expensive
+CUST0528,2022-06-09,Professional,Monthly,SaaS,Canada,Referral,51-200,79,758,79,0,,22,40,2,
+CUST0529,2023-01-12,Starter,Monthly,E-Commerce,Nigeria,Social Media,11-50,29,278,29,1,2024-03-07,14,37,2,Poor support
+CUST0530,2023-06-14,Starter,Monthly,Media,Canada,Direct,1-10,29,278,29,0,,9,65,0,
+CUST0531,2022-03-25,Starter,Monthly,Logistics,India,Social Media,1-10,29,278,29,0,,24,92,2,
+CUST0532,2022-01-12,Professional,Monthly,EdTech,Australia,Social Media,11-50,79,758,79,0,,26,44,1,
+CUST0533,2022-09-13,Business,Annual,E-Commerce,USA,Direct,11-50,149,1430,1430,0,2024-03-31,22,70,0,
+CUST0534,2023-09-02,Enterprise,Monthly,FinTech,Australia,Referral,51-200,299,2870,299,1,2024-03-30,7,41,2,Too expensive
+CUST0535,2023-09-18,Professional,Annual,HealthTech,Germany,Social Media,11-50,79,758,758,0,,6,62,0,
+CUST0536,2022-03-24,Starter,Monthly,Media,India,Direct,201-500,29,278,29,0,,24,81,3,
+CUST0537,2022-09-19,Starter,Monthly,HR Tech,Australia,Partner,11-50,29,278,29,1,2022-12-18,3,17,7,Switched to competitor
+CUST0538,2023-01-18,Professional,Annual,E-Commerce,Germany,Social Media,201-500,79,758,758,1,2023-02-17,1,24,2,No longer needed
+CUST0539,2022-02-28,Starter,Monthly,SaaS,Nigeria,Direct,11-50,29,278,29,0,,25,58,3,
+CUST0540,2022-11-17,Business,Monthly,SaaS,Canada,Social Media,1-10,149,1430,149,1,2023-07-15,8,18,4,Too expensive
+CUST0541,2022-09-04,Business,Annual,FinTech,Nigeria,Social Media,1-10,149,1430,1430,1,2023-10-29,14,33,7,Poor support
+CUST0542,2022-04-04,Starter,Monthly,SaaS,Australia,Referral,1-10,29,278,29,0,,24,74,0,
+CUST0543,2022-03-09,Enterprise,Monthly,Logistics,Australia,Organic Search,1-10,299,2870,299,0,,25,79,3,
+CUST0544,2022-01-13,Business,Monthly,HealthTech,Canada,Social Media,51-200,149,1430,149,1,2023-04-08,15,21,3,Switched to competitor
+CUST0545,2022-06-11,Professional,Monthly,HR Tech,UK,Direct,51-200,79,758,79,0,,21,72,1,
+CUST0546,2022-12-26,Starter,Annual,SaaS,Brazil,Social Media,201-500,29,278,278,1,2023-12-21,12,39,1,Switched to competitor
+CUST0547,2023-05-18,Professional,Monthly,HR Tech,India,Paid Ads,1-10,79,758,79,0,,10,77,1,
+CUST0548,2022-06-21,Professional,Monthly,HealthTech,Nigeria,Paid Ads,1-10,79,758,79,0,,21,61,0,
+CUST0549,2022-01-06,Professional,Annual,SaaS,Canada,Partner,1-10,79,758,758,1,2023-01-01,12,70,0,Too expensive
+CUST0550,2023-03-16,Business,Monthly,EdTech,Germany,Paid Ads,1-10,149,1430,149,1,2023-10-12,7,14,1,Budget cuts
+CUST0551,2022-07-23,Enterprise,Monthly,Logistics,UK,Social Media,1-10,299,2870,299,0,,20,57,0,
+CUST0552,2022-06-20,Professional,Monthly,Logistics,India,Partner,11-50,79,758,79,0,,21,77,1,
+CUST0553,2022-05-03,Enterprise,Monthly,E-Commerce,Canada,Paid Ads,500+,299,2870,299,0,,23,69,1,
+CUST0554,2023-07-06,Professional,Monthly,E-Commerce,Nigeria,Social Media,500+,79,758,79,0,,8,60,3,
+CUST0555,2023-03-05,Professional,Monthly,SaaS,Australia,Direct,1-10,79,758,79,0,,13,72,1,
+CUST0556,2022-12-14,Professional,Monthly,HR Tech,Brazil,Referral,51-200,79,758,79,1,2024-03-08,15,5,3,Switched to competitor
+CUST0557,2022-06-13,Starter,Monthly,E-Commerce,Nigeria,Referral,11-50,29,278,29,0,,21,83,0,
+CUST0558,2023-01-01,Professional,Annual,SaaS,UK,Partner,11-50,79,758,758,1,2024-01-26,13,36,2,Too expensive
+CUST0559,2022-07-05,Starter,Annual,Logistics,Nigeria,Direct,1-10,29,278,278,1,2023-12-27,18,41,4,Poor support
+CUST0560,2023-09-24,Business,Monthly,Logistics,Nigeria,Partner,11-50,149,1430,149,0,,6,52,3,
+CUST0561,2022-03-04,Starter,Annual,Logistics,India,Social Media,11-50,29,278,278,1,2023-04-28,14,45,6,Too expensive
+CUST0562,2023-06-08,Business,Annual,Logistics,Germany,Partner,201-500,149,1430,1430,0,,9,72,3,
+CUST0563,2022-12-24,Business,Monthly,E-Commerce,UK,Organic Search,1-10,149,1430,149,0,,15,69,3,
+CUST0564,2022-02-07,Starter,Monthly,SaaS,Germany,Partner,201-500,29,278,29,0,,26,59,1,
+CUST0565,2023-03-20,Starter,Annual,EdTech,UK,Organic Search,201-500,29,278,278,1,2024-03-14,12,30,8,Too expensive
+CUST0566,2022-07-26,Business,Annual,SaaS,Germany,Direct,11-50,149,1430,1430,0,,20,100,1,
+CUST0567,2023-03-25,Professional,Monthly,E-Commerce,UK,Direct,500+,79,758,79,0,,12,87,3,
+CUST0568,2022-08-11,Business,Monthly,HR Tech,India,Organic Search,11-50,149,1430,149,0,,19,61,2,
+CUST0569,2023-02-26,Professional,Monthly,HealthTech,India,Referral,201-500,79,758,79,0,,13,55,0,
+CUST0570,2022-04-27,Professional,Monthly,SaaS,Australia,Direct,500+,79,758,79,0,,23,94,0,
+CUST0571,2023-08-01,Professional,Monthly,HR Tech,USA,Organic Search,500+,79,758,79,0,,8,81,2,
+CUST0572,2022-06-23,Starter,Monthly,HR Tech,Australia,Paid Ads,1-10,29,278,29,0,,21,53,3,
+CUST0573,2023-05-06,Starter,Monthly,EdTech,Canada,Organic Search,11-50,29,278,29,0,,11,54,2,
+CUST0574,2022-11-28,Professional,Annual,EdTech,Canada,Social Media,500+,79,758,758,1,2023-11-23,12,27,2,Poor support
+CUST0575,2022-01-28,Professional,Annual,Logistics,USA,Direct,11-50,79,758,758,1,2023-02-22,13,70,2,Budget cuts
+CUST0576,2023-04-20,Starter,Annual,HR Tech,Australia,Partner,11-50,29,278,278,0,,11,45,1,
+CUST0577,2022-04-11,Enterprise,Annual,FinTech,Australia,Paid Ads,51-200,299,2870,2870,1,2023-06-05,14,27,3,Too expensive
+CUST0578,2022-07-30,Business,Monthly,FinTech,UK,Paid Ads,51-200,149,1430,149,0,,20,65,1,
+CUST0579,2022-09-03,Starter,Monthly,Logistics,Australia,Paid Ads,1-10,29,278,29,1,2023-07-30,11,37,3,No longer needed
+CUST0580,2022-09-16,Starter,Annual,FinTech,India,Partner,11-50,29,278,278,1,2023-09-11,12,59,2,Too expensive
+CUST0581,2022-07-07,Professional,Monthly,HR Tech,Brazil,Partner,1-10,79,758,79,1,2022-10-05,3,37,6,Switched to competitor
+CUST0582,2023-02-28,Professional,Annual,HealthTech,UK,Organic Search,1-10,79,758,758,1,2024-02-23,12,5,1,Missing features
+CUST0583,2022-03-31,Starter,Monthly,Media,USA,Referral,11-50,29,278,29,1,2022-12-26,9,21,5,Too expensive
+CUST0584,2022-12-09,Starter,Annual,E-Commerce,Canada,Partner,1-10,29,278,278,1,2023-12-04,12,38,0,Too expensive
+CUST0585,2022-11-15,Business,Annual,EdTech,Germany,Direct,1-10,149,1430,1430,0,,16,65,2,
+CUST0586,2022-11-27,Professional,Monthly,Media,USA,Direct,11-50,79,758,79,0,,16,80,2,
+CUST0587,2023-05-23,Starter,Annual,EdTech,Canada,Paid Ads,1-10,29,278,278,0,,10,71,2,
+CUST0588,2022-01-15,Professional,Annual,Logistics,Nigeria,Direct,201-500,79,758,758,0,,26,70,0,
+CUST0589,2022-08-27,Professional,Annual,E-Commerce,India,Organic Search,1-10,79,758,758,0,,19,71,1,
+CUST0590,2022-09-12,Business,Monthly,HR Tech,USA,Direct,500+,149,1430,149,0,,18,98,1,
+CUST0591,2023-09-30,Business,Monthly,EdTech,India,Organic Search,11-50,149,1430,149,0,,6,61,2,
+CUST0592,2022-11-04,Professional,Annual,HealthTech,USA,Organic Search,1-10,79,758,758,1,2023-11-29,13,47,2,Poor support
+CUST0593,2022-10-27,Enterprise,Monthly,Media,Australia,Referral,500+,299,2870,299,0,,17,69,3,
+CUST0594,2022-06-21,Starter,Monthly,Media,Australia,Organic Search,500+,29,278,29,1,2023-10-14,16,14,2,Budget cuts
+CUST0595,2023-08-19,Professional,Annual,Media,Canada,Organic Search,51-200,79,758,758,0,,7,94,2,
+CUST0596,2022-11-26,Starter,Annual,FinTech,Germany,Organic Search,201-500,29,278,278,1,2024-01-20,14,23,2,Too expensive
+CUST0597,2022-08-26,Starter,Monthly,EdTech,Nigeria,Paid Ads,11-50,29,278,29,1,2023-03-24,7,48,6,Switched to competitor
+CUST0598,2022-09-21,Professional,Annual,HR Tech,Nigeria,Paid Ads,51-200,79,758,758,0,,18,58,0,
+CUST0599,2022-03-13,Starter,Annual,EdTech,USA,Paid Ads,1-10,29,278,278,1,2023-04-07,13,36,0,Too expensive
+CUST0600,2022-07-06,Starter,Monthly,HealthTech,Nigeria,Referral,1-10,29,278,29,1,2023-12-28,18,37,5,Budget cuts
+CUST0601,2022-02-01,Starter,Annual,HealthTech,Australia,Direct,51-200,29,278,278,0,,26,63,0,
+CUST0602,2022-04-27,Starter,Monthly,HealthTech,Nigeria,Organic Search,201-500,29,278,29,0,,23,76,2,
+CUST0603,2022-05-08,Enterprise,Annual,Logistics,Germany,Organic Search,51-200,299,2870,2870,1,2023-05-03,12,58,1,Switched to competitor
+CUST0604,2023-09-28,Starter,Annual,E-Commerce,UK,Referral,11-50,29,278,278,0,,6,71,0,
+CUST0605,2023-01-25,Business,Annual,FinTech,Australia,Partner,201-500,149,1430,1430,0,,14,64,3,
+CUST0606,2023-07-15,Professional,Annual,Logistics,USA,Partner,1-10,79,758,758,0,,8,49,0,
+CUST0607,2022-06-07,Professional,Monthly,SaaS,India,Social Media,1-10,79,758,79,0,,22,78,2,
+CUST0608,2022-07-21,Professional,Monthly,FinTech,Germany,Referral,500+,79,758,79,0,,20,65,1,
+CUST0609,2023-06-25,Starter,Annual,EdTech,Brazil,Referral,201-500,29,278,278,0,,9,80,2,
+CUST0610,2022-06-20,Starter,Monthly,HealthTech,India,Social Media,1-10,29,278,29,0,,21,88,1,
+CUST0611,2022-01-13,Business,Annual,Logistics,Germany,Partner,1-10,149,1430,1430,1,2023-03-09,14,43,6,Too expensive
+CUST0612,2023-01-05,Professional,Annual,E-Commerce,Australia,Partner,11-50,79,758,758,1,2024-01-30,13,57,5,Too expensive
+CUST0613,2022-12-05,Professional,Monthly,SaaS,Nigeria,Organic Search,51-200,79,758,79,0,,16,67,3,
+CUST0614,2023-01-03,Professional,Monthly,E-Commerce,India,Organic Search,11-50,79,758,79,1,2023-08-31,8,23,4,Usability issues
+CUST0615,2022-01-19,Professional,Monthly,HR Tech,UK,Paid Ads,51-200,79,758,79,0,,26,66,1,
+CUST0616,2022-06-12,Enterprise,Annual,Media,Australia,Partner,51-200,299,2870,2870,1,2023-07-07,13,13,2,Too expensive
+CUST0617,2022-03-29,Starter,Annual,SaaS,India,Partner,11-50,29,278,278,1,2023-05-23,14,62,3,Too expensive
+CUST0618,2022-09-04,Professional,Monthly,Logistics,Australia,Paid Ads,51-200,79,758,79,1,2022-11-03,2,29,4,Switched to competitor
+CUST0619,2022-05-25,Starter,Annual,HealthTech,UK,Direct,1-10,29,278,278,1,2023-05-20,12,40,2,No longer needed
+CUST0620,2022-06-27,Business,Annual,Logistics,USA,Social Media,11-50,149,1430,1430,0,,21,81,2,
+CUST0621,2022-09-26,Starter,Annual,Media,Brazil,Organic Search,201-500,29,278,278,0,,18,55,3,
+CUST0622,2022-09-12,Starter,Annual,E-Commerce,USA,Direct,51-200,29,278,278,0,,18,62,2,
+CUST0623,2022-05-10,Starter,Annual,Logistics,Brazil,Partner,11-50,29,278,278,1,2023-05-05,12,44,8,Missing features
+CUST0624,2022-10-24,Enterprise,Monthly,SaaS,Canada,Partner,1-10,299,2870,299,0,,17,78,2,
+CUST0625,2022-01-31,Starter,Annual,HealthTech,India,Organic Search,1-10,29,278,278,1,2022-04-01,2,58,7,Too expensive
+CUST0626,2022-03-15,Professional,Annual,Logistics,USA,Paid Ads,11-50,79,758,758,1,2023-03-10,12,67,0,Too expensive
+CUST0627,2022-04-28,Starter,Monthly,FinTech,Brazil,Referral,11-50,29,278,29,0,,23,60,3,
+CUST0628,2022-05-24,Professional,Annual,FinTech,Germany,Organic Search,51-200,79,758,758,1,2023-07-18,14,70,0,Too expensive
+CUST0629,2023-07-29,Business,Monthly,Media,Canada,Social Media,201-500,149,1430,149,0,,8,79,2,
+CUST0630,2023-04-15,Professional,Annual,FinTech,UK,Partner,1-10,79,758,758,0,,11,57,0,
+CUST0631,2023-01-22,Starter,Annual,Logistics,Canada,Paid Ads,500+,29,278,278,0,,14,83,3,
+CUST0632,2022-04-11,Starter,Annual,SaaS,USA,Paid Ads,1-10,29,278,278,1,2022-10-08,6,34,3,Switched to competitor
+CUST0633,2023-04-23,Enterprise,Annual,SaaS,Brazil,Social Media,1-10,299,2870,2870,0,,11,67,1,
+CUST0634,2022-01-19,Starter,Annual,HR Tech,India,Partner,1-10,29,278,278,1,2023-03-15,14,37,5,Too expensive
+CUST0635,2023-02-24,Professional,Monthly,FinTech,Australia,Partner,51-200,79,758,79,1,2023-07-24,5,53,7,Too expensive
+CUST0636,2022-02-25,Starter,Annual,FinTech,USA,Paid Ads,201-500,29,278,278,1,2023-04-21,14,37,5,Switched to competitor
+CUST0637,2023-06-15,Starter,Monthly,E-Commerce,Australia,Referral,201-500,29,278,29,1,2024-02-10,8,38,7,Poor support
+CUST0638,2022-04-11,Professional,Annual,SaaS,Germany,Referral,51-200,79,758,758,0,,24,72,2,
+CUST0639,2023-04-20,Starter,Monthly,E-Commerce,Canada,Organic Search,11-50,29,278,29,0,,11,52,3,
+CUST0640,2023-02-21,Business,Annual,EdTech,Germany,Social Media,11-50,149,1430,1430,0,,13,76,0,
+CUST0641,2022-10-07,Starter,Annual,EdTech,Nigeria,Paid Ads,51-200,29,278,278,1,2023-12-01,14,69,0,Too expensive
+CUST0642,2022-10-11,Starter,Monthly,FinTech,Australia,Referral,51-200,29,278,29,1,2023-05-09,7,44,5,Too expensive
+CUST0643,2022-08-05,Starter,Monthly,Media,Canada,Direct,1-10,29,278,29,0,,20,84,0,
+CUST0644,2023-03-11,Starter,Annual,HR Tech,Germany,Social Media,1-10,29,278,278,0,,12,67,1,
+CUST0645,2022-08-21,Enterprise,Monthly,Media,Australia,Direct,11-50,299,2870,299,0,,19,46,2,
+CUST0646,2022-03-16,Professional,Annual,EdTech,Australia,Paid Ads,11-50,79,758,758,1,2023-04-10,13,61,0,Too expensive
+CUST0647,2022-07-17,Professional,Monthly,Logistics,Nigeria,Social Media,51-200,79,758,79,0,,20,68,3,
+CUST0648,2023-04-19,Enterprise,Annual,Logistics,UK,Direct,51-200,299,2870,2870,1,2023-08-17,4,12,8,Too expensive
+CUST0649,2022-07-16,Starter,Monthly,SaaS,UK,Partner,51-200,29,278,29,0,,20,73,2,
+CUST0650,2023-05-12,Starter,Annual,E-Commerce,Germany,Direct,500+,29,278,278,0,2024-03-31,16,44,3,
+CUST0651,2022-12-20,Starter,Monthly,HealthTech,India,Referral,11-50,29,278,29,0,,15,41,1,
+CUST0652,2022-06-09,Starter,Monthly,SaaS,UK,Organic Search,51-200,29,278,29,0,,22,64,2,
+CUST0653,2022-03-19,Business,Monthly,EdTech,Brazil,Organic Search,201-500,149,1430,149,0,,24,45,2,
+CUST0654,2022-04-27,Professional,Monthly,Logistics,USA,Direct,51-200,79,758,79,1,2023-04-22,12,30,8,Usability issues
+CUST0655,2023-04-21,Enterprise,Monthly,EdTech,Brazil,Social Media,51-200,299,2870,299,1,2023-08-19,4,18,6,No longer needed
+CUST0656,2022-04-10,Enterprise,Monthly,Logistics,UK,Organic Search,1-10,299,2870,299,0,,24,54,2,
+CUST0657,2022-06-01,Business,Annual,Media,Nigeria,Social Media,51-200,149,1430,1430,1,2023-05-27,12,85,2,Too expensive
+CUST0658,2022-03-06,Starter,Monthly,EdTech,UK,Referral,11-50,29,278,29,0,,25,82,1,
+CUST0659,2023-07-25,Professional,Monthly,Media,India,Paid Ads,11-50,79,758,79,0,,8,52,2,
+CUST0660,2023-04-10,Business,Monthly,Media,Australia,Social Media,11-50,149,1430,149,0,,11,63,0,
+CUST0661,2022-10-01,Professional,Annual,E-Commerce,Australia,Social Media,11-50,79,758,758,1,2023-09-26,12,72,1,Budget cuts
+CUST0662,2022-02-11,Business,Annual,FinTech,Nigeria,Referral,11-50,149,1430,1430,0,,25,73,3,
+CUST0663,2023-08-27,Starter,Annual,FinTech,UK,Partner,1-10,29,278,278,0,,7,92,1,
+CUST0664,2022-09-26,Professional,Monthly,HR Tech,Nigeria,Social Media,51-200,79,758,79,1,2023-08-22,11,34,2,Budget cuts
+CUST0665,2022-02-09,Starter,Monthly,Media,Brazil,Referral,500+,29,278,29,0,,26,76,0,
+CUST0666,2022-09-17,Starter,Monthly,EdTech,Australia,Social Media,201-500,29,278,29,0,,18,35,0,
+CUST0667,2022-08-09,Professional,Annual,EdTech,Canada,Organic Search,51-200,79,758,758,0,,20,53,2,
+CUST0668,2022-03-26,Starter,Annual,HR Tech,Germany,Referral,500+,29,278,278,1,2023-05-20,14,23,4,Missing features
+CUST0669,2022-10-15,Professional,Monthly,EdTech,UK,Partner,1-10,79,758,79,1,2023-06-12,8,9,1,Too expensive
+CUST0670,2022-09-01,Starter,Monthly,Logistics,Germany,Direct,11-50,29,278,29,0,,19,75,2,
+CUST0671,2022-08-25,Professional,Annual,Logistics,India,Organic Search,51-200,79,758,758,1,2023-09-19,13,69,0,Too expensive
+CUST0672,2023-01-15,Starter,Annual,Logistics,Nigeria,Social Media,51-200,29,278,278,1,2024-01-10,12,60,0,Too expensive
+CUST0673,2023-04-01,Starter,Monthly,FinTech,India,Paid Ads,51-200,29,278,29,1,2024-03-26,12,27,7,Budget cuts
+CUST0674,2023-08-18,Professional,Monthly,EdTech,Brazil,Social Media,500+,79,758,79,1,2024-01-15,5,28,8,Missing features
+CUST0675,2022-12-17,Enterprise,Annual,Logistics,Canada,Social Media,201-500,299,2870,2870,1,2023-12-12,12,92,0,Too expensive
+CUST0676,2023-09-05,Professional,Monthly,EdTech,Australia,Paid Ads,51-200,79,758,79,0,,6,79,3,
+CUST0677,2023-06-09,Starter,Monthly,HR Tech,Germany,Social Media,11-50,29,278,29,0,,9,79,1,
+CUST0678,2022-11-16,Starter,Annual,Media,Canada,Referral,1-10,29,278,278,1,2023-12-11,13,82,2,Too expensive
+CUST0679,2022-04-14,Starter,Annual,HR Tech,Germany,Referral,51-200,29,278,278,1,2023-04-09,12,53,4,Switched to competitor
+CUST0680,2023-01-16,Professional,Monthly,FinTech,Brazil,Partner,1-10,79,758,79,1,2023-10-13,9,35,7,Usability issues
+CUST0681,2022-09-26,Starter,Monthly,EdTech,Australia,Social Media,11-50,29,278,29,0,,18,77,3,
+CUST0682,2023-06-06,Starter,Monthly,Media,UK,Social Media,51-200,29,278,29,1,2023-10-04,4,47,6,Budget cuts
+CUST0683,2022-03-21,Starter,Annual,HealthTech,Nigeria,Organic Search,11-50,29,278,278,1,2023-04-15,13,67,2,Too expensive
+CUST0684,2022-06-28,Professional,Annual,E-Commerce,Brazil,Referral,51-200,79,758,758,0,,21,35,3,
+CUST0685,2022-08-03,Starter,Annual,HealthTech,UK,Direct,201-500,29,278,278,0,,20,77,1,
+CUST0686,2022-04-08,Business,Monthly,Logistics,India,Partner,201-500,149,1430,149,0,,24,63,2,
+CUST0687,2023-09-09,Professional,Monthly,HealthTech,Brazil,Organic Search,51-200,79,758,79,1,2024-01-07,4,32,5,Switched to competitor
+CUST0688,2023-06-20,Business,Annual,EdTech,Nigeria,Direct,11-50,149,1430,1430,0,,9,59,3,
+CUST0689,2023-01-22,Starter,Annual,Logistics,USA,Social Media,1-10,29,278,278,0,,14,34,3,
+CUST0690,2023-05-07,Professional,Annual,E-Commerce,Germany,Organic Search,11-50,79,758,758,0,,10,57,0,
+CUST0691,2023-01-27,Enterprise,Monthly,EdTech,USA,Paid Ads,1-10,299,2870,299,0,,14,75,3,
+CUST0692,2023-09-23,Professional,Monthly,HR Tech,India,Organic Search,11-50,79,758,79,0,,6,76,0,
+CUST0693,2023-03-20,Starter,Annual,FinTech,Canada,Organic Search,201-500,29,278,278,0,,12,67,3,
+CUST0694,2022-01-28,Starter,Annual,HR Tech,Australia,Referral,1-10,29,278,278,1,2023-01-23,12,27,8,No longer needed
+CUST0695,2022-10-27,Starter,Monthly,HealthTech,Germany,Paid Ads,51-200,29,278,29,1,2023-02-24,4,65,4,No longer needed
+CUST0696,2022-06-28,Enterprise,Annual,HR Tech,Canada,Referral,51-200,299,2870,2870,1,2023-06-23,12,36,3,Poor support
+CUST0697,2022-11-08,Enterprise,Annual,HR Tech,Germany,Referral,11-50,299,2870,2870,1,2023-11-03,12,42,5,Too expensive
+CUST0698,2023-01-30,Business,Monthly,E-Commerce,Australia,Partner,51-200,149,1430,149,0,,14,79,1,
+CUST0699,2023-01-29,Starter,Monthly,FinTech,Australia,Direct,500+,29,278,29,0,,14,46,3,
+CUST0700,2022-06-12,Starter,Annual,EdTech,Nigeria,Direct,51-200,29,278,278,1,2022-11-09,5,21,8,No longer needed
+CUST0701,2022-04-09,Starter,Monthly,E-Commerce,Nigeria,Partner,51-200,29,278,29,1,2023-06-03,14,41,8,Switched to competitor
+CUST0702,2022-04-12,Professional,Monthly,Media,Germany,Organic Search,51-200,79,758,79,1,2023-01-07,9,45,5,Missing features
+CUST0703,2022-03-16,Starter,Annual,HR Tech,Australia,Organic Search,51-200,29,278,278,1,2022-05-15,2,72,6,Too expensive
+CUST0704,2023-01-14,Enterprise,Monthly,SaaS,India,Direct,51-200,299,2870,299,0,,14,73,3,
+CUST0705,2022-07-14,Professional,Annual,HR Tech,Canada,Social Media,11-50,79,758,758,1,2023-08-08,13,19,1,Too expensive
+CUST0706,2022-08-30,Professional,Annual,HealthTech,Brazil,Referral,11-50,79,758,758,1,2023-08-25,12,61,3,Too expensive
+CUST0707,2023-04-10,Business,Monthly,E-Commerce,Germany,Paid Ads,1-10,149,1430,149,1,2023-10-07,6,57,1,Too expensive
+CUST0708,2022-10-07,Professional,Annual,Logistics,USA,Paid Ads,11-50,79,758,758,1,2023-04-05,6,33,2,Too expensive
+CUST0709,2022-06-21,Professional,Monthly,Media,Germany,Social Media,1-10,79,758,79,1,2022-08-20,2,2,6,Too expensive
+CUST0710,2023-02-01,Professional,Annual,SaaS,UK,Partner,11-50,79,758,758,1,2024-01-27,12,38,8,Usability issues
+CUST0711,2022-03-18,Starter,Monthly,HealthTech,UK,Organic Search,1-10,29,278,29,0,,24,70,1,
+CUST0712,2022-01-31,Professional,Monthly,E-Commerce,USA,Social Media,1-10,79,758,79,0,,26,66,0,
+CUST0713,2023-03-23,Starter,Monthly,E-Commerce,Australia,Referral,11-50,29,278,29,1,2023-10-19,7,47,7,Switched to competitor
+CUST0714,2022-02-01,Enterprise,Monthly,HealthTech,Nigeria,Direct,500+,299,2870,299,0,,26,47,1,
+CUST0715,2022-07-25,Starter,Monthly,SaaS,Canada,Direct,1-10,29,278,29,0,,20,78,3,
+CUST0716,2022-09-07,Business,Monthly,SaaS,Brazil,Referral,1-10,149,1430,149,1,2023-11-01,14,30,2,Budget cuts
+CUST0717,2022-12-14,Enterprise,Monthly,EdTech,Australia,Referral,51-200,299,2870,299,0,,15,58,2,
+CUST0718,2022-06-05,Business,Monthly,SaaS,Australia,Organic Search,51-200,149,1430,149,0,,22,65,3,
+CUST0719,2023-09-24,Business,Monthly,HR Tech,Brazil,Social Media,51-200,149,1430,149,0,,6,79,3,
+CUST0720,2023-04-26,Professional,Annual,Logistics,Canada,Organic Search,1-10,79,758,758,0,,11,37,2,
+CUST0721,2023-03-20,Professional,Monthly,E-Commerce,Germany,Direct,201-500,79,758,79,1,2023-06-18,3,26,4,Switched to competitor
+CUST0722,2023-07-01,Enterprise,Monthly,SaaS,Nigeria,Organic Search,11-50,299,2870,299,0,,9,61,1,
+CUST0723,2023-06-07,Business,Monthly,Logistics,India,Referral,51-200,149,1430,149,1,2023-10-05,4,42,3,Budget cuts
+CUST0724,2022-04-12,Professional,Annual,FinTech,Australia,Referral,11-50,79,758,758,1,2023-05-07,13,1,3,Poor support
+CUST0725,2022-04-24,Starter,Annual,Logistics,UK,Social Media,11-50,29,278,278,1,2023-06-18,14,64,2,Too expensive
+CUST0726,2023-03-29,Starter,Monthly,SaaS,Brazil,Direct,201-500,29,278,29,1,2023-05-28,2,45,5,No longer needed
+CUST0727,2022-05-06,Professional,Monthly,Media,Canada,Direct,51-200,79,758,79,0,,23,80,0,
+CUST0728,2022-05-23,Business,Annual,SaaS,Germany,Partner,1-10,149,1430,1430,1,2023-07-17,14,56,0,Too expensive
+CUST0729,2023-04-30,Professional,Monthly,Logistics,Canada,Referral,51-200,79,758,79,0,,11,89,2,
+CUST0730,2022-05-17,Starter,Monthly,SaaS,Germany,Organic Search,11-50,29,278,29,0,,22,64,1,
+CUST0731,2022-02-04,Starter,Monthly,EdTech,Canada,Partner,201-500,29,278,29,1,2023-05-30,16,32,7,Poor support
+CUST0732,2023-01-25,Enterprise,Annual,FinTech,Germany,Organic Search,500+,299,2870,2870,0,,14,59,2,
+CUST0733,2023-02-11,Professional,Annual,Media,USA,Organic Search,51-200,79,758,758,0,,13,39,2,
+CUST0734,2023-08-22,Business,Annual,E-Commerce,USA,Direct,1-10,149,1430,1430,0,,7,47,2,
+CUST0735,2022-06-18,Business,Monthly,EdTech,USA,Referral,11-50,149,1430,149,1,2023-02-13,8,60,6,Missing features
+CUST0736,2022-06-30,Professional,Monthly,EdTech,Australia,Social Media,11-50,79,758,79,1,2023-03-27,9,29,8,Budget cuts
+CUST0737,2022-06-30,Starter,Monthly,FinTech,USA,Paid Ads,51-200,29,278,29,0,,21,62,3,
+CUST0738,2022-06-26,Starter,Annual,FinTech,India,Social Media,1-10,29,278,278,1,2023-06-21,12,94,1,Too expensive
+CUST0739,2022-06-25,Professional,Annual,Logistics,Germany,Social Media,11-50,79,758,758,1,2023-08-19,14,32,7,Poor support
+CUST0740,2023-09-16,Starter,Monthly,E-Commerce,Germany,Organic Search,11-50,29,278,29,0,,6,43,2,
+CUST0741,2022-04-11,Starter,Monthly,EdTech,Brazil,Direct,1-10,29,278,29,1,2022-05-11,1,29,8,Too expensive
+CUST0742,2023-02-02,Professional,Monthly,HR Tech,Australia,Referral,1-10,79,758,79,0,,14,58,0,
+CUST0743,2023-04-13,Starter,Monthly,E-Commerce,USA,Direct,11-50,29,278,29,1,2024-03-08,11,53,5,No longer needed
+CUST0744,2022-11-27,Professional,Monthly,FinTech,Canada,Partner,500+,79,758,79,0,,16,62,2,
+CUST0745,2022-02-16,Professional,Annual,EdTech,Nigeria,Organic Search,201-500,79,758,758,0,,25,55,2,
+CUST0746,2022-02-20,Professional,Monthly,FinTech,Nigeria,Direct,11-50,79,758,79,1,2022-05-21,3,31,7,Budget cuts
+CUST0747,2022-04-02,Starter,Annual,Logistics,UK,Organic Search,201-500,29,278,278,1,2023-04-27,13,15,8,Too expensive
+CUST0748,2022-04-20,Starter,Annual,HR Tech,Nigeria,Paid Ads,1-10,29,278,278,1,2022-05-20,1,11,1,Missing features
+CUST0749,2022-08-08,Starter,Annual,Logistics,USA,Organic Search,11-50,29,278,278,1,2023-08-03,12,35,3,Too expensive
+CUST0750,2022-08-24,Starter,Annual,Logistics,India,Social Media,11-50,29,278,278,1,2023-09-18,13,60,3,Too expensive
+CUST0751,2023-03-01,Business,Annual,FinTech,Australia,Organic Search,1-10,149,1430,1430,0,2024-03-31,17,54,3,
+CUST0752,2023-01-07,Starter,Annual,SaaS,UK,Social Media,11-50,29,278,278,1,2024-01-02,12,43,4,Too expensive
+CUST0753,2023-01-22,Business,Annual,Media,USA,Partner,51-200,149,1430,1430,1,2024-01-17,12,60,1,Too expensive
+CUST0754,2023-08-04,Enterprise,Annual,HR Tech,USA,Direct,51-200,299,2870,2870,0,,8,63,3,
+CUST0755,2022-12-04,Professional,Annual,E-Commerce,Nigeria,Paid Ads,51-200,79,758,758,1,2023-11-29,12,36,5,Too expensive
+CUST0756,2022-02-26,Business,Monthly,Media,USA,Partner,500+,149,1430,149,0,,25,26,0,
+CUST0757,2023-09-19,Business,Annual,Logistics,Australia,Paid Ads,51-200,149,1430,1430,0,,6,66,0,
+CUST0758,2022-06-24,Business,Monthly,E-Commerce,Nigeria,Partner,500+,149,1430,149,0,,21,87,3,
+CUST0759,2022-05-01,Enterprise,Annual,Logistics,Australia,Referral,51-200,299,2870,2870,1,2023-06-25,14,63,1,Too expensive
+CUST0760,2023-07-22,Business,Monthly,EdTech,Canada,Social Media,201-500,149,1430,149,0,,8,74,1,
+CUST0761,2023-09-26,Business,Monthly,Media,Nigeria,Referral,11-50,149,1430,149,1,2024-03-24,6,32,5,Switched to competitor
+CUST0762,2023-06-05,Starter,Annual,EdTech,Nigeria,Organic Search,51-200,29,278,278,0,,10,50,2,
+CUST0763,2022-04-30,Professional,Monthly,E-Commerce,Australia,Social Media,11-50,79,758,79,1,2023-01-25,9,14,3,Poor support
+CUST0764,2022-05-10,Professional,Monthly,SaaS,Nigeria,Referral,11-50,79,758,79,0,,23,75,3,
+CUST0765,2023-07-08,Professional,Annual,HR Tech,Australia,Direct,1-10,79,758,758,0,2024-03-31,22,79,1,
+CUST0766,2023-06-30,Professional,Annual,EdTech,USA,Organic Search,11-50,79,758,758,0,2024-03-31,14,72,1,
+CUST0767,2023-02-13,Professional,Annual,SaaS,USA,Organic Search,51-200,79,758,758,0,,13,53,3,
+CUST0768,2023-03-15,Enterprise,Monthly,EdTech,UK,Paid Ads,11-50,299,2870,299,0,,12,68,2,
+CUST0769,2023-02-02,Enterprise,Monthly,EdTech,Canada,Social Media,1-10,299,2870,299,1,2023-06-02,4,39,5,Poor support
+CUST0770,2022-08-12,Professional,Monthly,SaaS,UK,Social Media,11-50,79,758,79,0,,19,62,3,
+CUST0771,2022-11-15,Professional,Monthly,Media,Canada,Direct,1-10,79,758,79,1,2023-09-11,10,16,4,Too expensive
+CUST0772,2022-09-25,Professional,Annual,HealthTech,India,Partner,11-50,79,758,758,1,2023-10-20,13,56,6,Too expensive
+CUST0773,2022-10-13,Business,Monthly,Media,Australia,Paid Ads,11-50,149,1430,149,0,,17,56,1,
+CUST0774,2022-04-05,Starter,Monthly,SaaS,Nigeria,Organic Search,11-50,29,278,29,0,,24,54,2,
+CUST0775,2023-04-30,Starter,Annual,FinTech,Australia,Paid Ads,11-50,29,278,278,0,,11,57,0,
+CUST0776,2023-01-25,Starter,Monthly,HR Tech,UK,Direct,500+,29,278,29,0,,14,70,2,
+CUST0777,2022-05-17,Business,Annual,E-Commerce,India,Organic Search,11-50,149,1430,1430,0,,22,65,1,
+CUST0778,2022-05-31,Business,Monthly,Logistics,Germany,Social Media,1-10,149,1430,149,0,,22,75,0,
+CUST0779,2022-02-02,Professional,Monthly,Media,Germany,Direct,1-10,79,758,79,1,2023-06-27,17,31,4,Poor support
+CUST0780,2022-12-19,Professional,Monthly,E-Commerce,Brazil,Direct,51-200,79,758,79,1,2023-02-17,2,50,1,Too expensive
+CUST0781,2023-03-20,Professional,Monthly,HR Tech,UK,Direct,1-10,79,758,79,1,2023-07-18,4,29,4,Too expensive
+CUST0782,2023-06-19,Business,Monthly,Media,USA,Partner,1-10,149,1430,149,0,,9,83,1,
+CUST0783,2023-05-02,Starter,Monthly,EdTech,Canada,Social Media,11-50,29,278,29,0,,11,70,0,
+CUST0784,2023-07-13,Starter,Annual,SaaS,Canada,Referral,1-10,29,278,278,0,,8,69,3,
+CUST0785,2022-10-08,Starter,Monthly,E-Commerce,UK,Direct,11-50,29,278,29,0,,18,71,0,
+CUST0786,2023-09-26,Enterprise,Annual,HR Tech,Brazil,Partner,11-50,299,2870,2870,0,2024-03-31,14,80,2,
+CUST0787,2022-02-11,Starter,Annual,HR Tech,UK,Partner,1-10,29,278,278,1,2023-04-07,14,73,1,Too expensive
+CUST0788,2022-11-30,Professional,Annual,SaaS,UK,Direct,201-500,79,758,758,0,,16,60,2,
+CUST0789,2023-02-22,Business,Monthly,FinTech,India,Direct,201-500,149,1430,149,0,,13,57,1,
+CUST0790,2022-11-07,Professional,Monthly,SaaS,USA,Partner,1-10,79,758,79,1,2024-03-31,17,45,2,Usability issues
+CUST0791,2023-03-28,Starter,Annual,SaaS,Australia,Referral,1-10,29,278,278,0,,12,86,2,
+CUST0792,2022-07-22,Enterprise,Annual,HR Tech,UK,Social Media,51-200,299,2870,2870,0,,20,52,2,
+CUST0793,2023-05-01,Business,Monthly,HR Tech,Australia,Organic Search,201-500,149,1430,149,1,2023-11-27,7,27,6,Missing features
+CUST0794,2022-06-19,Professional,Monthly,HR Tech,Nigeria,Social Media,51-200,79,758,79,0,,21,60,1,
+CUST0795,2022-02-03,Professional,Annual,HR Tech,Canada,Paid Ads,51-200,79,758,758,1,2022-06-03,4,45,2,Too expensive
+CUST0796,2023-05-02,Starter,Monthly,E-Commerce,Germany,Partner,51-200,29,278,29,1,2023-06-01,1,29,5,Usability issues
+CUST0797,2023-02-21,Professional,Monthly,SaaS,Brazil,Organic Search,51-200,79,758,79,0,,13,71,3,
+CUST0798,2022-02-13,Business,Annual,SaaS,Nigeria,Partner,201-500,149,1430,1430,1,2023-04-09,14,21,3,Too expensive
+CUST0799,2022-02-04,Professional,Annual,FinTech,UK,Direct,201-500,79,758,758,0,,26,63,0,
+CUST0800,2022-12-28,Starter,Monthly,SaaS,Brazil,Referral,51-200,29,278,29,1,2024-02-21,14,11,3,Poor support
+CUST0801,2022-08-06,Professional,Monthly,HR Tech,India,Paid Ads,11-50,79,758,79,1,2023-11-29,16,31,7,Poor support
+CUST0802,2023-05-13,Starter,Annual,HR Tech,USA,Organic Search,11-50,29,278,278,0,,10,84,0,
+CUST0803,2023-07-31,Business,Monthly,FinTech,USA,Referral,51-200,149,1430,149,1,2024-01-27,6,30,8,Poor support
+CUST0804,2022-09-15,Business,Monthly,HealthTech,Nigeria,Referral,51-200,149,1430,149,0,,18,64,1,
+CUST0805,2022-10-01,Business,Monthly,Media,USA,Paid Ads,11-50,149,1430,149,1,2023-06-28,9,38,5,Too expensive
+CUST0806,2023-06-09,Enterprise,Annual,SaaS,Australia,Paid Ads,500+,299,2870,2870,0,2024-03-31,15,59,1,
+CUST0807,2022-08-09,Enterprise,Annual,Media,Australia,Partner,11-50,299,2870,2870,0,,20,80,0,
+CUST0808,2023-07-25,Professional,Annual,E-Commerce,UK,Referral,11-50,79,758,758,0,2024-03-31,13,62,1,
+CUST0809,2022-05-10,Business,Monthly,Logistics,Canada,Referral,1-10,149,1430,149,1,2023-09-02,16,21,2,Poor support
+CUST0810,2022-05-27,Starter,Monthly,Media,USA,Partner,1-10,29,278,29,0,,22,50,1,
+CUST0811,2022-03-16,Enterprise,Annual,SaaS,Australia,Direct,11-50,299,2870,2870,0,,24,57,1,
+CUST0812,2022-09-11,Starter,Monthly,E-Commerce,Brazil,Partner,1-10,29,278,29,0,,18,78,0,
+CUST0813,2022-05-13,Starter,Annual,HealthTech,Nigeria,Paid Ads,1-10,29,278,278,1,2023-07-07,14,33,7,Poor support
+CUST0814,2023-07-24,Business,Monthly,E-Commerce,Canada,Paid Ads,51-200,149,1430,149,0,,8,41,0,
+CUST0815,2022-11-30,Business,Annual,HR Tech,Nigeria,Paid Ads,51-200,149,1430,1430,0,,16,52,0,
+CUST0816,2023-05-06,Enterprise,Monthly,E-Commerce,Australia,Organic Search,201-500,299,2870,299,0,,11,61,2,
+CUST0817,2022-11-16,Professional,Monthly,SaaS,Australia,Organic Search,51-200,79,758,79,0,,16,66,3,
+CUST0818,2023-01-18,Professional,Monthly,HR Tech,Canada,Social Media,500+,79,758,79,0,,14,62,3,
+CUST0819,2022-03-03,Starter,Annual,HealthTech,Germany,Organic Search,500+,29,278,278,0,,25,78,3,
+CUST0820,2022-12-19,Enterprise,Monthly,HealthTech,Canada,Referral,51-200,299,2870,299,0,,15,53,3,
+CUST0821,2022-05-27,Starter,Monthly,Logistics,USA,Referral,1-10,29,278,29,0,,22,75,1,
+CUST0822,2023-05-22,Business,Monthly,SaaS,Australia,Paid Ads,11-50,149,1430,149,0,,10,60,2,
+CUST0823,2022-01-29,Enterprise,Monthly,HealthTech,UK,Partner,1-10,299,2870,299,0,,26,67,2,
+CUST0824,2022-10-11,Enterprise,Annual,SaaS,USA,Social Media,11-50,299,2870,2870,1,2022-11-10,1,28,8,Switched to competitor
+CUST0825,2023-03-19,Business,Annual,Media,India,Referral,51-200,149,1430,1430,1,2023-04-18,1,49,7,No longer needed
+CUST0826,2022-12-19,Starter,Monthly,E-Commerce,Germany,Paid Ads,11-50,29,278,29,0,,15,60,3,
+CUST0827,2022-09-19,Enterprise,Annual,SaaS,Nigeria,Referral,11-50,299,2870,2870,0,,18,49,3,
+CUST0828,2022-05-14,Starter,Monthly,HealthTech,Brazil,Partner,500+,29,278,29,0,,22,76,0,
+CUST0829,2022-08-19,Starter,Monthly,EdTech,Australia,Direct,11-50,29,278,29,0,,19,80,0,
+CUST0830,2023-02-19,Business,Monthly,HealthTech,India,Organic Search,51-200,149,1430,149,1,2023-07-19,5,32,8,Switched to competitor
+CUST0831,2022-02-28,Starter,Monthly,HealthTech,Nigeria,Partner,51-200,29,278,29,0,,25,76,0,
+CUST0832,2022-07-04,Enterprise,Annual,HR Tech,UK,Referral,11-50,299,2870,2870,0,,21,56,0,
+CUST0833,2023-03-26,Starter,Annual,Logistics,Canada,Paid Ads,201-500,29,278,278,1,2024-03-20,12,58,2,Switched to competitor
+CUST0834,2023-01-24,Starter,Monthly,HR Tech,Australia,Paid Ads,201-500,29,278,29,1,2024-01-19,12,57,8,Usability issues
+CUST0835,2022-07-24,Professional,Monthly,Media,Australia,Direct,51-200,79,758,79,0,,20,67,2,
+CUST0836,2022-12-20,Professional,Monthly,E-Commerce,UK,Organic Search,1-10,79,758,79,0,,15,86,2,
+CUST0837,2023-08-09,Enterprise,Annual,FinTech,Australia,Social Media,11-50,299,2870,2870,0,,7,88,2,
+CUST0838,2023-07-26,Business,Annual,Logistics,Nigeria,Social Media,51-200,149,1430,1430,0,,8,45,3,
+CUST0839,2022-05-28,Professional,Monthly,HR Tech,India,Paid Ads,1-10,79,758,79,0,,22,60,1,
+CUST0840,2023-01-06,Business,Annual,Media,Brazil,Social Media,51-200,149,1430,1430,1,2024-03-01,14,4,8,Too expensive
+CUST0841,2022-12-23,Business,Monthly,E-Commerce,UK,Partner,11-50,149,1430,149,0,,15,59,0,
+CUST0842,2023-08-04,Enterprise,Monthly,HR Tech,USA,Partner,500+,299,2870,299,0,,8,49,3,
+CUST0843,2022-11-28,Professional,Monthly,SaaS,UK,Direct,1-10,79,758,79,0,,16,57,3,
+CUST0844,2023-04-14,Starter,Annual,SaaS,Brazil,Paid Ads,51-200,29,278,278,0,,11,31,0,
+CUST0845,2023-02-20,Professional,Monthly,FinTech,Australia,Paid Ads,11-50,79,758,79,0,,13,70,2,
+CUST0846,2023-07-04,Enterprise,Annual,E-Commerce,Germany,Referral,51-200,299,2870,2870,0,,9,69,1,
+CUST0847,2023-05-07,Professional,Monthly,HR Tech,India,Partner,1-10,79,758,79,0,,10,70,2,
+CUST0848,2022-08-07,Professional,Monthly,Logistics,UK,Social Media,51-200,79,758,79,0,,20,77,3,
+CUST0849,2023-03-12,Enterprise,Annual,HealthTech,USA,Partner,51-200,299,2870,2870,0,,12,58,0,
+CUST0850,2022-02-10,Starter,Monthly,Logistics,Australia,Organic Search,201-500,29,278,29,0,,26,52,1,
+CUST0851,2022-01-17,Enterprise,Annual,HR Tech,Nigeria,Paid Ads,500+,299,2870,2870,0,,26,55,1,
+CUST0852,2022-02-25,Professional,Annual,Media,India,Social Media,1-10,79,758,758,1,2023-02-20,12,71,2,Too expensive
+CUST0853,2022-11-05,Professional,Monthly,Logistics,Brazil,Social Media,201-500,79,758,79,0,,17,73,2,
+CUST0854,2022-06-27,Enterprise,Annual,HealthTech,Brazil,Direct,11-50,299,2870,2870,1,2023-07-22,13,38,8,Too expensive
+CUST0855,2023-06-28,Business,Annual,HR Tech,UK,Direct,1-10,149,1430,1430,0,2024-03-31,12,74,2,
+CUST0856,2022-06-07,Starter,Monthly,EdTech,Brazil,Paid Ads,500+,29,278,29,1,2023-01-03,7,10,4,Budget cuts
+CUST0857,2023-02-12,Professional,Monthly,HR Tech,Australia,Social Media,11-50,79,758,79,0,,13,68,3,
+CUST0858,2023-06-11,Business,Annual,SaaS,Brazil,Partner,1-10,149,1430,1430,0,2024-03-31,13,66,1,
+CUST0859,2022-11-20,Business,Annual,Media,Brazil,Paid Ads,500+,149,1430,1430,1,2023-11-15,12,61,3,Too expensive
+CUST0860,2022-03-09,Enterprise,Annual,SaaS,India,Social Media,1-10,299,2870,2870,1,2023-05-03,14,41,8,Too expensive
+CUST0861,2023-03-29,Professional,Annual,HR Tech,Germany,Social Media,1-10,79,758,758,1,2024-03-23,12,52,8,Budget cuts
+CUST0862,2022-12-25,Starter,Annual,E-Commerce,Canada,Partner,11-50,29,278,278,1,2023-01-24,1,44,4,Too expensive
+CUST0863,2022-07-17,Enterprise,Monthly,HealthTech,Nigeria,Social Media,51-200,299,2870,299,0,,20,76,0,
+CUST0864,2023-09-14,Business,Monthly,Media,USA,Partner,11-50,149,1430,149,0,,6,65,2,
+CUST0865,2023-06-01,Business,Annual,FinTech,Germany,Organic Search,51-200,149,1430,1430,0,2024-03-31,12,74,1,
+CUST0866,2022-05-19,Starter,Monthly,Media,UK,Direct,11-50,29,278,29,1,2023-08-12,15,80,3,Budget cuts
+CUST0867,2022-09-03,Enterprise,Annual,Media,Canada,Organic Search,11-50,299,2870,2870,1,2023-09-28,13,43,7,Poor support
+CUST0868,2023-05-27,Starter,Monthly,Logistics,UK,Social Media,500+,29,278,29,0,,10,69,0,
+CUST0869,2023-03-24,Starter,Monthly,SaaS,Brazil,Paid Ads,11-50,29,278,29,1,2023-04-23,1,24,7,Budget cuts
+CUST0870,2023-01-13,Starter,Annual,E-Commerce,Canada,Direct,1-10,29,278,278,1,2024-01-08,12,58,7,No longer needed
+CUST0871,2023-04-19,Starter,Monthly,HealthTech,Nigeria,Referral,11-50,29,278,29,0,,11,100,0,
+CUST0872,2022-03-11,Starter,Monthly,SaaS,Brazil,Organic Search,500+,29,278,29,0,,25,60,2,
+CUST0873,2023-09-30,Starter,Annual,EdTech,Canada,Partner,51-200,29,278,278,1,2023-10-30,1,44,2,Too expensive
+CUST0874,2023-08-05,Starter,Monthly,HR Tech,Germany,Social Media,1-10,29,278,29,0,,7,71,2,
+CUST0875,2023-08-23,Professional,Annual,EdTech,Australia,Organic Search,1-10,79,758,758,0,,7,48,2,
+CUST0876,2022-08-18,Starter,Monthly,E-Commerce,Germany,Social Media,1-10,29,278,29,1,2023-02-14,6,50,1,Missing features
+CUST0877,2023-05-07,Professional,Monthly,SaaS,Australia,Direct,1-10,79,758,79,0,,10,79,0,
+CUST0878,2022-09-13,Starter,Monthly,Media,Nigeria,Direct,51-200,29,278,29,1,2023-02-10,5,36,3,Too expensive
+CUST0879,2022-11-20,Business,Monthly,E-Commerce,UK,Partner,1-10,149,1430,149,0,,16,67,3,
+CUST0880,2023-04-08,Starter,Annual,Media,UK,Partner,51-200,29,278,278,1,2023-05-08,1,22,5,Too expensive
+CUST0881,2022-12-24,Professional,Annual,Media,Brazil,Paid Ads,11-50,79,758,758,0,,15,62,2,
+CUST0882,2022-07-15,Business,Monthly,HealthTech,USA,Direct,1-10,149,1430,149,0,,20,63,3,
+CUST0883,2023-08-13,Starter,Monthly,FinTech,UK,Partner,11-50,29,278,29,0,,7,85,3,
+CUST0884,2022-09-22,Professional,Monthly,Media,USA,Direct,1-10,79,758,79,0,,18,73,0,
+CUST0885,2023-09-19,Enterprise,Annual,Media,Nigeria,Social Media,1-10,299,2870,2870,0,,6,62,1,
+CUST0886,2023-09-09,Professional,Monthly,E-Commerce,UK,Paid Ads,51-200,79,758,79,0,,6,99,0,
+CUST0887,2023-08-21,Starter,Annual,E-Commerce,India,Partner,51-200,29,278,278,1,2023-09-20,1,33,5,No longer needed
+CUST0888,2023-02-26,Business,Annual,EdTech,Germany,Paid Ads,500+,149,1430,1430,0,,13,60,2,
+CUST0889,2023-07-14,Professional,Annual,Media,UK,Social Media,11-50,79,758,758,0,,8,50,1,
+CUST0890,2023-06-24,Professional,Monthly,HealthTech,UK,Direct,1-10,79,758,79,0,,9,75,3,
+CUST0891,2022-07-29,Business,Monthly,SaaS,Australia,Referral,51-200,149,1430,149,0,,20,73,0,
+CUST0892,2022-09-29,Business,Monthly,EdTech,India,Direct,11-50,149,1430,149,0,,18,73,2,
+CUST0893,2022-01-10,Starter,Annual,SaaS,Canada,Referral,11-50,29,278,278,1,2023-02-04,13,49,2,Too expensive
+CUST0894,2022-10-04,Business,Annual,Logistics,Australia,Referral,11-50,149,1430,1430,1,2023-09-29,12,45,2,Too expensive
+CUST0895,2023-05-12,Professional,Monthly,E-Commerce,India,Referral,500+,79,758,79,0,,10,38,2,
+CUST0896,2023-02-16,Starter,Monthly,EdTech,Canada,Referral,11-50,29,278,29,1,2023-04-17,2,49,2,Usability issues
+CUST0897,2023-01-12,Business,Monthly,E-Commerce,Australia,Direct,500+,149,1430,149,0,,14,86,3,
+CUST0898,2022-12-17,Starter,Annual,SaaS,UK,Organic Search,11-50,29,278,278,0,2024-03-31,18,96,3,
+CUST0899,2022-12-19,Enterprise,Monthly,Media,India,Referral,51-200,299,2870,299,0,,15,46,2,
+CUST0900,2022-08-23,Starter,Monthly,HealthTech,Brazil,Social Media,11-50,29,278,29,0,,19,77,1,
+CUST0901,2022-01-24,Enterprise,Annual,EdTech,Canada,Organic Search,1-10,299,2870,2870,1,2023-01-19,12,68,1,Too expensive
+CUST0902,2022-07-12,Starter,Annual,EdTech,Nigeria,Referral,51-200,29,278,278,0,,20,85,1,
+CUST0903,2022-05-15,Starter,Annual,Media,Australia,Organic Search,11-50,29,278,278,1,2023-05-10,12,50,5,Too expensive
+CUST0904,2022-06-10,Enterprise,Annual,HealthTech,Germany,Direct,51-200,299,2870,2870,1,2023-07-05,13,66,0,Too expensive
+CUST0905,2022-10-03,Professional,Monthly,HealthTech,Brazil,Direct,500+,79,758,79,0,,18,61,0,
+CUST0906,2022-02-21,Professional,Annual,Media,Canada,Referral,1-10,79,758,758,1,2023-02-16,12,72,2,Switched to competitor
+CUST0907,2022-10-21,Starter,Monthly,SaaS,India,Direct,51-200,29,278,29,0,,17,100,2,
+CUST0908,2022-08-11,Professional,Monthly,EdTech,USA,Referral,1-10,79,758,79,1,2022-09-10,1,15,6,Missing features
+CUST0909,2023-01-07,Starter,Annual,HR Tech,Nigeria,Paid Ads,500+,29,278,278,0,2024-03-31,22,99,1,
+CUST0910,2022-07-02,Business,Annual,FinTech,Germany,Partner,201-500,149,1430,1430,1,2023-08-26,14,82,3,Too expensive
+CUST0911,2022-04-19,Professional,Annual,E-Commerce,UK,Social Media,51-200,79,758,758,0,,23,63,1,
+CUST0912,2022-07-02,Professional,Annual,HealthTech,India,Organic Search,11-50,79,758,758,1,2023-06-27,12,59,3,Too expensive
+CUST0913,2022-02-05,Professional,Annual,FinTech,UK,Social Media,201-500,79,758,758,1,2023-04-01,14,44,7,Too expensive
+CUST0914,2023-06-01,Professional,Monthly,Logistics,Canada,Social Media,51-200,79,758,79,0,,10,69,2,
+CUST0915,2022-03-12,Professional,Annual,FinTech,Australia,Direct,11-50,79,758,758,1,2022-04-11,1,38,4,Too expensive
+CUST0916,2023-02-01,Starter,Monthly,Logistics,UK,Direct,51-200,29,278,29,0,,14,87,1,
+CUST0917,2022-05-28,Starter,Annual,FinTech,Canada,Partner,1-10,29,278,278,1,2023-07-22,14,26,2,Too expensive
+CUST0918,2022-12-21,Professional,Monthly,SaaS,Germany,Social Media,1-10,79,758,79,0,,15,94,0,
+CUST0919,2022-01-21,Professional,Monthly,HealthTech,UK,Referral,51-200,79,758,79,0,,26,69,1,
+CUST0920,2022-03-07,Professional,Monthly,E-Commerce,India,Referral,11-50,79,758,79,0,,25,63,0,
+CUST0921,2023-01-14,Starter,Monthly,HR Tech,Germany,Referral,11-50,29,278,29,0,,14,78,0,
+CUST0922,2022-01-05,Business,Monthly,Logistics,UK,Direct,11-50,149,1430,149,1,2022-09-02,8,33,5,Budget cuts
+CUST0923,2023-02-04,Starter,Annual,HealthTech,India,Direct,51-200,29,278,278,1,2024-01-30,12,63,1,Switched to competitor
+CUST0924,2022-04-27,Professional,Monthly,SaaS,USA,Direct,11-50,79,758,79,0,,23,42,0,
+CUST0925,2022-06-14,Starter,Monthly,HR Tech,Nigeria,Partner,1-10,29,278,29,0,,21,67,0,
+CUST0926,2022-10-31,Professional,Monthly,Media,Germany,Direct,11-50,79,758,79,0,,17,48,0,
+CUST0927,2022-01-03,Starter,Annual,HealthTech,Canada,Partner,51-200,29,278,278,0,,27,87,1,
+CUST0928,2023-09-09,Business,Monthly,EdTech,Canada,Paid Ads,201-500,149,1430,149,1,2024-02-06,5,7,8,Too expensive
+CUST0929,2022-10-22,Starter,Monthly,FinTech,UK,Partner,1-10,29,278,29,0,,17,77,2,
+CUST0930,2023-06-11,Business,Annual,HR Tech,UK,Organic Search,11-50,149,1430,1430,0,,9,69,0,
+CUST0931,2022-05-14,Starter,Monthly,SaaS,Brazil,Social Media,201-500,29,278,29,0,,22,69,2,
+CUST0932,2022-02-01,Starter,Monthly,Media,Canada,Partner,11-50,29,278,29,1,2023-04-27,15,65,2,Switched to competitor
+CUST0933,2022-08-31,Starter,Monthly,HR Tech,India,Organic Search,11-50,29,278,29,1,2023-10-25,14,46,7,Missing features
+CUST0934,2022-10-18,Business,Annual,SaaS,Brazil,Paid Ads,11-50,149,1430,1430,0,,17,61,2,
+CUST0935,2023-04-16,Starter,Monthly,FinTech,USA,Social Media,1-10,29,278,29,1,2023-05-16,1,12,6,Missing features
+CUST0936,2022-01-13,Starter,Monthly,EdTech,Canada,Partner,500+,29,278,29,0,,26,63,1,
+CUST0937,2022-02-05,Business,Monthly,Logistics,UK,Paid Ads,11-50,149,1430,149,1,2023-05-31,16,40,1,Budget cuts
+CUST0938,2022-11-02,Professional,Monthly,E-Commerce,Nigeria,Direct,51-200,79,758,79,0,,17,88,0,
+CUST0939,2022-01-15,Business,Annual,Logistics,Germany,Partner,500+,149,1430,1430,1,2023-02-09,13,64,0,Switched to competitor
+CUST0940,2022-10-30,Enterprise,Monthly,HealthTech,USA,Social Media,1-10,299,2870,299,1,2024-02-22,16,26,7,Poor support
+CUST0941,2022-12-29,Business,Monthly,HealthTech,UK,Paid Ads,51-200,149,1430,149,0,,15,72,3,
+CUST0942,2022-12-09,Starter,Monthly,HealthTech,Nigeria,Organic Search,201-500,29,278,29,1,2024-02-02,14,6,7,Usability issues
+CUST0943,2022-04-01,Business,Monthly,Logistics,Germany,Paid Ads,201-500,149,1430,149,1,2023-01-26,10,30,5,Budget cuts
+CUST0944,2022-02-16,Professional,Annual,Media,Canada,Partner,1-10,79,758,758,0,,25,68,2,
+CUST0945,2023-01-22,Starter,Monthly,Media,Brazil,Paid Ads,11-50,29,278,29,0,,14,63,1,
+CUST0946,2022-02-20,Starter,Annual,EdTech,UK,Partner,11-50,29,278,278,0,,25,64,3,
+CUST0947,2023-04-07,Starter,Annual,E-Commerce,UK,Direct,11-50,29,278,278,0,,11,57,0,
+CUST0948,2022-12-21,Starter,Annual,EdTech,Germany,Paid Ads,51-200,29,278,278,0,,15,54,1,
+CUST0949,2023-02-27,Business,Annual,SaaS,India,Direct,51-200,149,1430,1430,0,,13,72,0,
+CUST0950,2022-01-28,Business,Monthly,FinTech,Australia,Paid Ads,11-50,149,1430,149,0,,26,78,2,
+CUST0951,2022-12-14,Starter,Monthly,FinTech,Nigeria,Organic Search,11-50,29,278,29,0,,15,75,3,
+CUST0952,2022-06-18,Professional,Annual,Logistics,Australia,Social Media,11-50,79,758,758,1,2023-08-12,14,54,3,Budget cuts
+CUST0953,2023-08-06,Professional,Monthly,FinTech,Australia,Paid Ads,201-500,79,758,79,0,,7,78,1,
+CUST0954,2023-04-11,Enterprise,Annual,Media,Nigeria,Referral,51-200,299,2870,2870,0,2024-03-31,14,85,3,
+CUST0955,2023-03-20,Enterprise,Annual,Media,Nigeria,Referral,11-50,299,2870,2870,1,2023-05-19,2,40,8,Too expensive
+CUST0956,2023-07-11,Business,Annual,Media,Brazil,Direct,51-200,149,1430,1430,0,,8,57,2,
+CUST0957,2023-02-22,Professional,Annual,HR Tech,UK,Referral,201-500,79,758,758,0,,13,79,3,
+CUST0958,2022-09-20,Business,Monthly,HR Tech,UK,Paid Ads,11-50,149,1430,149,0,,18,69,0,
+CUST0959,2023-05-04,Professional,Annual,EdTech,Brazil,Referral,1-10,79,758,758,0,2024-03-31,13,71,3,
+CUST0960,2023-01-04,Enterprise,Monthly,Logistics,Canada,Partner,51-200,299,2870,299,0,,15,52,2,
+CUST0961,2023-05-07,Professional,Monthly,SaaS,India,Referral,11-50,79,758,79,0,,10,95,2,
+CUST0962,2023-07-15,Professional,Monthly,HR Tech,Germany,Organic Search,51-200,79,758,79,0,,8,67,1,
+CUST0963,2022-10-20,Professional,Annual,E-Commerce,UK,Referral,51-200,79,758,758,0,,17,73,2,
+CUST0964,2022-03-07,Professional,Annual,Media,Germany,Referral,1-10,79,758,758,1,2023-05-01,14,24,7,Poor support
+CUST0965,2022-10-06,Business,Annual,E-Commerce,Canada,Partner,500+,149,1430,1430,0,,18,78,3,
+CUST0966,2022-07-18,Enterprise,Annual,Media,Canada,Paid Ads,51-200,299,2870,2870,1,2023-07-13,12,71,0,Switched to competitor
+CUST0967,2023-09-03,Starter,Monthly,E-Commerce,Canada,Social Media,1-10,29,278,29,0,,7,36,2,
+CUST0968,2023-04-19,Professional,Annual,E-Commerce,Germany,Social Media,11-50,79,758,758,0,2024-03-31,24,91,1,
+CUST0969,2023-09-06,Professional,Monthly,HR Tech,UK,Partner,11-50,79,758,79,0,,6,88,3,
+CUST0970,2023-06-18,Starter,Annual,Media,Australia,Referral,1-10,29,278,278,0,2024-03-31,14,59,2,
+CUST0971,2022-10-02,Starter,Monthly,FinTech,Nigeria,Social Media,11-50,29,278,29,0,,18,56,0,
+CUST0972,2022-04-22,Enterprise,Annual,SaaS,Australia,Direct,11-50,299,2870,2870,0,,23,51,0,
+CUST0973,2023-05-21,Business,Annual,Media,Brazil,Partner,51-200,149,1430,1430,0,2024-03-31,14,76,0,
+CUST0974,2023-04-19,Starter,Monthly,HR Tech,Canada,Organic Search,1-10,29,278,29,0,,11,79,3,
+CUST0975,2022-06-03,Enterprise,Monthly,SaaS,Australia,Social Media,1-10,299,2870,299,1,2022-09-01,3,43,8,Poor support
+CUST0976,2023-03-11,Enterprise,Monthly,EdTech,Nigeria,Social Media,1-10,299,2870,299,0,,12,62,0,
+CUST0977,2022-11-12,Starter,Monthly,Media,Germany,Paid Ads,201-500,29,278,29,0,,16,67,2,
+CUST0978,2022-03-24,Starter,Annual,E-Commerce,Nigeria,Paid Ads,51-200,29,278,278,1,2023-05-18,14,72,3,Too expensive
+CUST0979,2022-09-28,Starter,Annual,EdTech,USA,Partner,1-10,29,278,278,1,2022-10-28,1,45,2,Poor support
+CUST0980,2022-10-29,Enterprise,Annual,Media,India,Social Media,1-10,299,2870,2870,1,2023-12-23,14,23,2,Too expensive
+CUST0981,2022-07-22,Business,Annual,HR Tech,Canada,Organic Search,51-200,149,1430,1430,0,,20,43,3,
+CUST0982,2023-08-13,Enterprise,Annual,HealthTech,USA,Social Media,11-50,299,2870,2870,0,,7,50,0,
+CUST0983,2022-06-27,Enterprise,Annual,Logistics,India,Organic Search,11-50,299,2870,2870,0,,21,52,2,
+CUST0984,2023-03-12,Business,Annual,EdTech,Australia,Social Media,11-50,149,1430,1430,0,,12,70,0,
+CUST0985,2023-06-17,Starter,Monthly,SaaS,USA,Partner,1-10,29,278,29,0,,9,69,1,
+CUST0986,2022-10-20,Enterprise,Monthly,SaaS,India,Referral,51-200,299,2870,299,0,,17,63,1,
+CUST0987,2022-11-19,Starter,Monthly,EdTech,Canada,Partner,11-50,29,278,29,0,,16,55,2,
+CUST0988,2023-01-06,Professional,Monthly,FinTech,Brazil,Organic Search,201-500,79,758,79,0,,15,78,0,
+CUST0989,2023-01-12,Business,Annual,EdTech,Canada,Organic Search,51-200,149,1430,1430,0,,14,52,3,
+CUST0990,2023-08-08,Starter,Annual,Media,USA,Paid Ads,1-10,29,278,278,1,2023-12-06,4,29,2,Too expensive
+CUST0991,2022-10-03,Enterprise,Annual,Media,Brazil,Social Media,11-50,299,2870,2870,0,,18,58,0,
+CUST0992,2023-08-03,Starter,Monthly,Logistics,Germany,Referral,201-500,29,278,29,1,2023-12-01,4,56,1,Missing features
+CUST0993,2023-02-07,Starter,Annual,SaaS,Brazil,Referral,11-50,29,278,278,1,2024-03-03,13,38,6,Too expensive
+CUST0994,2023-03-15,Professional,Annual,EdTech,India,Paid Ads,201-500,79,758,758,1,2024-03-09,12,70,0,Too expensive
+CUST0995,2022-02-03,Professional,Annual,SaaS,UK,Social Media,1-10,79,758,758,1,2023-01-29,12,55,2,Switched to competitor
+CUST0996,2023-07-30,Starter,Annual,HR Tech,Canada,Direct,1-10,29,278,278,1,2023-08-29,1,35,3,No longer needed
+CUST0997,2023-07-14,Starter,Monthly,HealthTech,Brazil,Paid Ads,51-200,29,278,29,0,,8,56,3,
+CUST0998,2022-04-23,Business,Monthly,FinTech,Brazil,Partner,11-50,149,1430,149,1,2023-06-17,14,14,2,Poor support
+CUST0999,2022-03-28,Professional,Annual,HealthTech,USA,Referral,1-10,79,758,758,1,2023-12-18,21,35,4,Too expensive
+CUST1000,2022-12-03,Business,Monthly,E-Commerce,Nigeria,Paid Ads,11-50,149,1430,149,0,,16,86,3,
