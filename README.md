@@ -37,14 +37,13 @@ which active customers are likely to cancel before they do.
 
 | Query | What It Answers |
 |-------|----------------|
-| Q1 | Churn rate by plan and billing cycle |
-| Q2 | Monthly churn rate trend over time |
-| Q3 | MRR breakdown — New, Recurring, Expansion, Contraction |
-| Q4 | Retention cohort analysis Month 1 → Month 18 |
-| Q5 | Customer Lifetime Value by plan and billing cycle |
-| Q6 | Churn rate and CLV by acquisition channel |
-| Q7 | Usage score risk segmentation — 4 risk tiers |
-| Q8 | At-risk customer intervention list with composite risk score |
+Churn Rate by Billing Cycle | Proves annual customers churn at 2× the monthly rate |
+| Revenue Categorisation | Breaks MRR into event types by month |
+| Retention Cohort Analysis | Tracks customer survival from signup month |
+| Support Ticket Correlation | Links ticket volume and resolution time to churn |
+| At-Risk Customer List | Flags active annual customers with usage score < 30 |
+| MRR Trend | Month-by-month revenue growth |
+| Billing Cycle Breakdown | Customer count split by plan and churn status |
 
 ---
 
