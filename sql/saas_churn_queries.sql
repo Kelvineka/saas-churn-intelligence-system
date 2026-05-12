@@ -87,7 +87,7 @@ SELECT
     billing_cycle
 FROM customers
 WHERE is_churned = 'Active' 
-  AND usage_score < 30 -- Low engagement
+  AND usage_score < 40 -- Low engagement
   AND billing_cycle = 'Annual' -- Your high-risk segment
 ORDER BY usage_score ASC
 LIMIT 50;
