@@ -1,6 +1,6 @@
 # SaaS Customer Retention & Churn Intelligence System
 
-![Dashboard Preview](outputs/dashboard_executive_overview.png)
+![Dashboard Preview](outputs/dashboard_executive_overview.PNG)
 
 ## Project Summary
 End-to-end analytics system built for a simulated SaaS company 
@@ -64,10 +64,10 @@ billing cycle, and renewal proximity (months 10–14).
 ## Power BI Dashboard — 3 Pages
 
 ### Executive Overview
-![Executive Overview](outputs/dashboard_executive_overview.png)
+![Executive Overview](outputs/dashboard_executive_overview.PNG)
 
 ### Churn Deep Dive
-![Churn Deep Dive](outputs/dashboard_churn_deep_dive.png)
+![Churn Deep Dive](outputs/dashboard_churn_deep_dive.PNG)
 
 
 ### Predictive Outreach
@@ -95,10 +95,10 @@ billing cycle, and renewal proximity (months 10–14).
 Four-sheet workbook built for non-technical stakeholders and CFO-level reporting.
 
 ### Executive Summary
-![Executive Summary](outputs/excel_executive_summary.png)
+![Executive Summary](outputs/excel_executive_summary.PNG)
 
 ### MRR Revenue Trends
-![MRR Trends](outputs/excel_mrr_trends.png)
+![MRR Trends](outputs/excel_mrr_trends.PNG)
 
 ### Churn Deep Dive
 ![Churn Deep Dive](outputs/excel_churn_deep_dive.png)
