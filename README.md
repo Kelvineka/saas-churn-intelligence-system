@@ -71,7 +71,8 @@ billing cycle, and renewal proximity (months 10–14).
 
 
 ### Predictive Outreach
-![Predictive Outreach](outputs/dashboard_predictive outreach.png)
+![Predictive Outreach](outputs/dashboard_predictive_outreach.PNG)
+
 ---
 
 ## Business Recommendations
@@ -101,9 +102,9 @@ Four-sheet workbook built for non-technical stakeholders and CFO-level reporting
 ![MRR Trends](outputs/excel_mrr_trends.PNG)
 
 ### Churn Deep Dive
-![Churn Deep Dive](outputs/excel_churn_deep_dive.png)
+![Churn Deep Dive](outputs/excel_churn_deep_dive.PNG)
 
 ### Predictive Risk List
-![Predictive Risk List](outputs/excel_predictive_risk_list.png)
+![Predictive Risk List](outputs/excel_predictive_risk_list.PNG)
 
 📥 [Download full Excel workbook](outputs/SaaS_Churn_Executive_Report.xlsx)
