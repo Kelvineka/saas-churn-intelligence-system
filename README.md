@@ -107,4 +107,9 @@ Four-sheet workbook built for non-technical stakeholders and CFO-level reporting
 ### Predictive Risk List
 ![Predictive Risk List](outputs/excel_predictive_risk_list.PNG)
 
+## Key Visuals
+
+![Feature Importance](outputs/feature_importance.png)
+![Confusion Matrix](outputs/confusion_matrix.png
+
 📥 [Download full Excel workbook](outputs/SaaS_Churn_Executive_Report.xlsx)
